@@ -1,0 +1,189 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TUM-Vorlage: Wissenschaftliche Arbeit
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Rechteinhaber:
+%     Technische Universität München
+%     https://www.tum.de
+% 
+% Gestaltung:
+%     ediundsepp Gestaltungsgesellschaft, München
+%     http://www.ediundsepp.de
+% 
+% Technische Umsetzung:
+%     eWorks GmbH, Frankfurt am Main
+%     http://www.eworks.de
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./resources/packages.tex} % !!! NICHT ENTFERNEN !!!
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\Thema}{Improving spatio-temporal traffic prediction through transfer learning}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./resources/settings.tex} % !!! NICHT ENTFERNEN !!!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\title{Improving spatio-temporal traffic prediction through transfer learning}
+\author{João Rodrigo Olenscki}
+\date{07.02.2024}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter*{Abstract}
+
+In urban planning and management, traffic prediction is essential for reducing congestion, optimizing urban layout, and estimating time throughout a city. Big data and \gls{AI} triggered a great leap forward in this field in recent years. Big data was a transformative concept in the field, changing how traffic data is collected, analyzed, and utilized. It allowed the collection of a significant volume of data with great diversity, a key enabler of \gls{AI} models, known for being data-greedy, as it optimizes data consumption, allowing these models to be computationally viable. 
+
+State-of-the-art deep learning models can be highly accurate but require large amounts of data to work correctly. This drawback, called the ``cold-start'' problem, can prevent cities from building their intelligent network since inputting a certain amount of data is required to make the model functional. Recent studies have proposed the use of transfer learning mechanisms to handle this situation. These models can learn complex \gls{ST} patterns from data-rich cities and use this knowledge to make predictions in data-scarce counterparts. This kind of approach can also reduce the computational burden of re-training models, as the model developed to extract the complex patterns are reused even for other data-rich cities.
+
+In this work, we delve into the study and adaption of state-of-the-art convolutional graph models into a transfer learning framework to take advantage of multiple cities as sources of knowledge on traffic patterns. For this purpose, we employed an extensive dataset with eight cities and studied the effects of different domain adaptation approaches and how, for instance, for a constant amount of source data, the diversity of origin of said data, using multiple source cities, affects the model's predictive ability. The baseline, with which we compared the models, comprised two statistical models: \gls{HA} and \gls{ARIMA}. To verify the accuracy of both the models and baselines, we employed several metrics, such as \gls{MAE}, \gls{RMSE},\gls{MSE}, and \gls{MAPE}.
+
+The results found suggest that
+
+\todo[inline]{complete abstract with results found}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter*{Acknowledgments}
+
+This thesis was written as part of my Master's degree in Mechanical Engineering at the Technical University of Munich at the Transporting Systems Engineering chair. First, I would like to express my gratitude to Univ.-Prof. Dr. Constantinos Antoniou and M. Sc. Cheng Lyu for allowing me to work on this project. They provided me with great counseling and discussions that helped a lot.
+
+I want to express my gratitude to Univ.-Prof. Dr. Larissa Driemeier for serving as my co-supervisor in this thesis and to the Polytechnic School of the University of São Paulo for allowing me to study at TUM as part of a double degree program.
+
+I also want to thank my friends with whom I discussed this thesis and from whom I found good listeners and advisors. In special, Lui, my companion during endless debugging sessions; Luís, João Pedro, and Ariel, my roommates and friends whom I used as rubber ducks, explaining problems and bugs in detail until I could figure out the causes; and Tomás, my dear brother with whom I could talk about the most various technical parts of this work in search of advice.
+
+I am also very thankful to God for the strength, resilience, and courage during the writing of this thesis and for the entirety of my degree. To my parents, Ricardo and Camila, with whom I found support and love during this journey, this thesis is dedicated to you. I also thank all my siblings, José, Luís, Tomás, Sofia, Beatriz, and André, for their encouragement and help. I would also like to thank my uncle, aunt, and cousin, Hermann, Luciana, and Hermann, whose home was a second home for me during this year.
+
+Finally, I thank everyone with whom I shared this part of my life, full of discoveries, a bit of hardship, and rich in personal growth. 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\tableofcontents
+
+\listoffigures
+
+\listoftables
+
+\listofalgorithms
+
+\clearpage
+
+\printglossary[type=\acronymtype,title=Glossary]
+
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction} \label{ch:intro}
+\input{./chapters/introduction.tex}
+
+
+\chapter{Literature Review} \label{ch:lit}
+\input{./chapters/literature.tex}
+
+
+\chapter{Methodology} \label{ch:method}
+\input{./chapters/methodology.tex}
+
+
+\chapter{Results} \label{ch:results}
+\input{./chapters/results.tex}
+
+
+\chapter{Discussion} \label{ch:discussion}
+\input{./chapters/discussion.tex}
+
+
+\chapter{Conclusion} \label{ch:conclusion}
+\input{./chapters/conclusion.tex}	
+
+
+
+
+%\section{Section}
+%
+%\subsection[]{Subsection}
+%
+%Example of a figure, see below.
+%
+%\begin{figure}[!ht]
+%\noindent\hspace{0.5mm}\includegraphics[width=12cm]{./resources/Desert.jpg}
+%\caption{Title, Author}
+%\end{figure}
+%
+%Example of glossary use: \gls{ITS}.
+%
+%Example use of citation \cite{Wang2023}.
+%
+%\clearpage
+%
+%\chapter{Tables}
+%
+%\vspace{\parskip}
+%\section*{Table style 1}
+%
+%\begin{table}[!h]
+%\begin{tabularx}{\textwidth}{ M | M }
+%\multicolumn{1}{X}{\textbf{Spalte 1}}%
+%& \multicolumn{1}{X}{\textbf{Spalte 2}} \\
+%\hline
+%Nummer 1 & Nummer 2 \\
+%\hline
+%Nummer 1 & Nummer 2 \\
+%\hline
+%Nummer 1 & Nummer 2 \\
+%\hline
+%\end{tabularx}
+%
+%\caption{Caption}
+%\end{table}
+%
+%\vspace{\parskip}
+%\section*{Table style 2}
+%
+%\begin{table}[!h]
+%\begin{tabularx}{\textwidth}{| M | M |}
+%\hline
+%\textbf{Spalte 1} & \textbf{Spalte 2} \\
+%\hline
+%Nummer 1 & Nummer 2 \\
+%\hline
+%Nummer 1 & Nummer 2 \\
+%\hline
+%Nummer 1 & Nummer 2 \\
+%\hline
+%\end{tabularx}
+%
+%\caption{Caption}
+%\end{table}
+%
+%\vspace{\parskip}
+%\section*{Table style 3}
+%
+%\begin{table}[!h]
+%\begin{tabularx}{\textwidth}{@{} M  M @{}}
+%\textbf{Spalte 1} & \textbf{Spalte 2} \\
+%Nummer 1 & Nummer 2 \\
+%Nummer 1 & Nummer 2 \\
+%Nummer 1 & Nummer 2 \\
+%\end{tabularx}
+%
+%\caption{Caption}
+%\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+%\nocite{*}
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+\end{document}

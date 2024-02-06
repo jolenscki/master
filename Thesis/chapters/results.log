@@ -1,0 +1,31 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.4)  16 JAN 2024 18:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"C:/Users/rodri/OneDrive/Documentos/TUM/Master Arbeit/Thesis/chapters/results
+.tex"
+
+(C:/Users/rodri/OneDrive/Documentos/TUM/Master Arbeit/Thesis/chapters/results.t
+ex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
+! Undefined control sequence.
+l.1 \section
+            {Computational Specifications and Training Times} \label{sec:com...
+
+? 
+! Emergency stop.
+l.1 
+    
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 19 strings out of 474494
+ 620 string characters out of 5743915
+ 1924460 words of memory out of 5000000
+ 22396 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,13p,193b,8s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

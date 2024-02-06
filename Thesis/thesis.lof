@@ -1,0 +1,19 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Histogram for data distribution for the speed. Note the first (very thin) bin with the null values.}}{18}{figure.caption.12}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Histogram for data distribution for the volume. Note the first (very thin) bin with the null values.}}{18}{figure.caption.12}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Heatmap of the snapshot for the (a) Speed; and (b) Volume.}}{18}{figure.caption.13}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Visualization of the data (as a tensor).}}{20}{figure.caption.16}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Simplified version of the proposed model.}}{22}{figure.caption.17}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Diagram representing the autoencoder as a combination of an encoder and a decoder.}}{23}{figure.caption.18}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Diagram representing the architecture for the Domain Discriminator module.}}{27}{figure.caption.20}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Diagram representing the architecture for the Predictor network.}}{28}{figure.caption.21}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Diagram representing the training script and domain adaptation process.}}{30}{figure.caption.22}%
+\contentsline {figure}{\numberline {10}{\ignorespaces \gls {MAE} and \gls {MSE} for the autoencoder with different values of $K_{\text {cheb}}$}}{39}{figure.caption.25}%
+\contentsline {figure}{\numberline {11}{\ignorespaces \gls {MAE} and \gls {MSE} for the autoencoder with different number of cities}}{40}{figure.caption.27}%
+\contentsline {figure}{\numberline {12}{\ignorespaces \gls {MAE} and \gls {MSE} for the autoencoder with different activation functions.}}{41}{figure.caption.29}%
+\contentsline {figure}{\numberline {13}{\ignorespaces \gls {MAE} and \gls {MSE} for the autoencoder with different criterion functions.}}{42}{figure.caption.31}%
+\contentsline {figure}{\numberline {14}{\ignorespaces \gls {MAE} and \gls {MSE} for the autoencoder with different pairs of latent dimension values.}}{44}{figure.caption.34}%
+\contentsline {figure}{\numberline {15}{\ignorespaces \gls {MAE} and \gls {MSE} for the autoencoders using different pre-training strategies.}}{45}{figure.caption.36}%
+\contentsline {figure}{\numberline {16}{\ignorespaces \gls {MAE} and \gls {MSE} on the prediction using different values of $\lambda $.}}{47}{figure.caption.39}%
+\contentsline {figure}{\numberline {17}{\ignorespaces \gls {MAE} and \gls {MSE} on the prediction using different domain adaptation techniques.}}{48}{figure.caption.41}%
+\contentsline {figure}{\numberline {18}{\ignorespaces \gls {MAE} and \gls {MSE} on the prediction using different number of epochs.}}{49}{figure.caption.42}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

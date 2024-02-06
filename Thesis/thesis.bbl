@@ -1,0 +1,235 @@
+\begin{thebibliography}{10}
+
+\bibitem{yin2015literature}
+C.~Yin, Z.~Xiong, H.~Chen, J.~Wang, D.~Cooper, and B.~David, ``A literature
+  survey on smart cities.,'' {\em Sci. China Inf. Sci.}, vol.~58, no.~10,
+  pp.~1--18, 2015.
+
+\bibitem{zhang2018predicting}
+J.~Zhang, Y.~Zheng, D.~Qi, R.~Li, X.~Yi, and T.~Li, ``Predicting citywide crowd
+  flows using deep spatio-temporal residual networks,'' {\em Artificial
+  Intelligence}, vol.~259, pp.~147--166, 2018.
+
+\bibitem{jin2018spatio}
+W.~Jin, Y.~Lin, Z.~Wu, and H.~Wan, ``Spatio-temporal recurrent convolutional
+  networks for citywide short-term crowd flows prediction,'' in {\em
+  Proceedings of the 2nd International Conference on Compute and Data
+  Analysis}, pp.~28--35, 2018.
+
+\bibitem{polson2017deep}
+N.~G. Polson and V.~O. Sokolov, ``Deep learning for short-term traffic flow
+  prediction,'' {\em Transportation Research Part C: Emerging Technologies},
+  vol.~79, pp.~1--17, 2017.
+
+\bibitem{wu2018hybrid}
+Y.~Wu, H.~Tan, L.~Qin, B.~Ran, and Z.~Jiang, ``A hybrid deep learning based
+  traffic flow prediction method and its understanding,'' {\em Transportation
+  Research Part C: Emerging Technologies}, vol.~90, pp.~166--180, 2018.
+
+\bibitem{liu2019deeppf}
+Y.~Liu, Z.~Liu, and R.~Jia, ``Deeppf: A deep learning based architecture for
+  metro passenger flow prediction,'' {\em Transportation Research Part C:
+  Emerging Technologies}, vol.~101, pp.~18--34, 2019.
+
+\bibitem{chai2018bike}
+D.~Chai, L.~Wang, and Q.~Yang, ``Bike flow prediction with multi-graph
+  convolutional networks,'' in {\em Proceedings of the 26th ACM SIGSPATIAL
+  international conference on advances in geographic information systems},
+  pp.~397--400, 2018.
+
+\bibitem{geng2019spatiotemporal}
+X.~Geng, Y.~Li, L.~Wang, L.~Zhang, Q.~Yang, J.~Ye, and Y.~Liu, ``Spatiotemporal
+  multi-graph convolution network for ride-hailing demand forecasting,'' in
+  {\em Proceedings of the AAAI conference on artificial intelligence}, vol.~33,
+  pp.~3656--3663, 2019.
+
+\bibitem{yu2017spatio}
+B.~Yu, H.~Yin, and Z.~Zhu, ``Spatio-temporal graph convolutional networks: A
+  deep learning framework for traffic forecasting,'' {\em arXiv preprint
+  arXiv:1709.04875}, 2017.
+
+\bibitem{pan2009survey}
+S.~J. Pan and Q.~Yang, ``A survey on transfer learning,'' {\em IEEE
+  Transactions on knowledge and data engineering}, vol.~22, no.~10,
+  pp.~1345--1359, 2009.
+
+\bibitem{Yao2019}
+H.~Yao, Y.~Liu, Y.~Wei, X.~Tang, and Z.~Li, ``Learning from multiple cities: A
+  meta-learning approach for spatial-temporal prediction,'' in {\em The World
+  Wide Web Conference}, {ACM}, May 2019.
+
+\bibitem{Lu2022}
+B.~Lu, X.~Gan, W.~Zhang, H.~Yao, L.~Fu, and X.~Wang, ``Spatio-temporal graph
+  few-shot learning with cross-city knowledge transfer,'' in {\em Proceedings
+  of the 28th {ACM} {SIGKDD} Conference on Knowledge Discovery and Data
+  Mining}, {ACM}, Aug. 2022.
+
+\bibitem{Tang2022}
+Y.~Tang, A.~Qu, A.~H.~F. Chow, W.~H.~K. Lam, S.~C. Wong, and W.~Ma, ``Domain
+  adversarial spatial-temporal network: A transferable framework for short-term
+  traffic forecasting across cities,'' 2022.
+
+\bibitem{Beckmann1956}
+M.~J. Beckmann, C.~B. McGuire, and C.~B. Winsten, {\em Studies in the Economics
+  of Transportation}.
+\newblock Santa Monica, CA: RAND Corporation, 1955.
+
+\bibitem{Bevis1959}
+H.~W. Bevis, ``A model for predicting urban travel patterns,'' {\em Journal of
+  the American Institute of Planners}, vol.~25, pp.~87--89, May 1959.
+
+\bibitem{Ma2017}
+X.~Ma, Z.~Dai, Z.~He, J.~Ma, Y.~Wang, and Y.~Wang, ``Learning traffic as
+  images: A deep convolutional neural network for large-scale transportation
+  network speed prediction,'' {\em Sensors}, vol.~17, p.~818, Apr. 2017.
+
+\bibitem{Lin2021}
+J.~Lin, Y.~Chen, H.~Zheng, M.~Ding, P.~Cheng, and L.~Hanzo, ``A data-driven
+  base station sleeping strategy based on traffic prediction,'' {\em IEEE
+  Transactions on Network Science and Engineering}, 2021.
+
+\bibitem{Zhao2017}
+Z.~Zhao, W.~Chen, X.~Wu, P.~C.~Y. Chen, and J.~Liu, ``{LSTM} network: a deep
+  learning approach for short-term traffic forecast,'' {\em {IET} Intelligent
+  Transport Systems}, vol.~11, pp.~68--75, Feb. 2017.
+
+\bibitem{yao2018deep}
+H.~Yao, F.~Wu, J.~Ke, X.~Tang, Y.~Jia, S.~Lu, P.~Gong, J.~Ye, and Z.~Li, ``Deep
+  multi-view spatial-temporal network for taxi demand prediction,'' in {\em
+  Proceedings of the AAAI conference on artificial intelligence}, vol.~32,
+  2018.
+
+\bibitem{Wang2019b}
+L.~Wang, X.~Geng, X.~Ma, F.~Liu, and Q.~Yang, ``Cross-city transfer learning
+  for deep spatio-temporal prediction,'' in {\em Proceedings of the
+  Twenty-Eighth International Joint Conference on Artificial Intelligence},
+  International Joint Conferences on Artificial Intelligence Organization, Aug.
+  2019.
+
+\bibitem{Wang20224695}
+S.~Wang, H.~Miao, J.~Li, and J.~Cao, ``Spatio-temporal knowledge transfer for
+  urban crowd flow prediction via deep attentive adaptation networks,'' {\em
+  IEEE Transactions on Intelligent Transportation Systems}, vol.~23, no.~5,
+  p.~4695 – 4705, 2022.
+
+\bibitem{Ouyang20231}
+X.~Ouyang, Y.~Yang, W.~Zhou, Y.~Zhang, H.~Wang, and W.~Huang, ``Citytrans:
+  Domain-adversarial training with knowledge transfer for spatio-temporal
+  prediction across cities,'' {\em IEEE Transactions on Knowledge and Data
+  Engineering}, p.~1–14, 2023.
+
+\bibitem{Jin2022731}
+Y.~Jin, K.~Chen, and Q.~Yang, ``Selective cross-city transfer learning for
+  traffic prediction via source city region re-weighting,'' p.~731 – 741,
+  2022.
+
+\bibitem{Zhang2022}
+L.~Zhang, X.~Geng, Z.~Qin, H.~Wang, X.~Wang, Y.~Zhang, J.~Liang, G.~Wu,
+  X.~Song, and Y.~Wang, ``Multi-modal graph interaction for multi-graph
+  convolution network in urban spatiotemporal forecasting,'' {\em
+  Sustainability}, vol.~14, p.~12397, Sept. 2022.
+
+\bibitem{Geng2019}
+X.~Geng, Y.~Li, L.~Wang, L.~Zhang, Q.~Yang, J.~Ye, and Y.~Liu, ``Spatiotemporal
+  multi-graph convolution network for ride-hailing demand forecasting,'' {\em
+  Proceedings of the {AAAI} Conference on Artificial Intelligence}, vol.~33,
+  pp.~3656--3663, July 2019.
+
+\bibitem{Wang2023}
+L.~Wang, D.~Chai, X.~Liu, L.~Chen, and K.~Chen, ``Exploring the
+  generalizability of spatio-temporal traffic prediction: Meta-modeling and an
+  analytic framework,'' {\em {IEEE} Transactions on Knowledge and Data
+  Engineering}, vol.~35, pp.~3870--3884, Apr. 2023.
+
+\bibitem{Wei2016}
+Y.~Wei, Y.~Zheng, and Q.~Yang, ``Transfer knowledge between cities,'' in {\em
+  Proceedings of the 22nd {ACM} {SIGKDD} International Conference on Knowledge
+  Discovery and Data Mining}, {ACM}, Aug. 2016.
+
+\bibitem{Elmi20201088}
+S.~Elmi and K.-L. Tan, ``Travel time prediction in missing data areas:
+  Feature-based transfer learning approach,'' p.~1088 – 1095, 2020.
+
+\bibitem{Li2022}
+J.~Li, N.~Xie, K.~Zhang, F.~Guo, S.~Hu, and X.~M. Chen, ``Network-scale traffic
+  prediction via knowledge transfer and regional mfd analysis,'' {\em
+  Transportation Research Part C: Emerging Technologies}, vol.~141, 2022.
+
+\bibitem{Ali2020}
+Z.~Ali, P.~Kefalas, K.~Muhammad, B.~Ali, and M.~Imran, ``Deep learning in
+  citation recommendation models survey,'' {\em Expert Systems with
+  Applications}, vol.~162, p.~113790, Dec. 2020.
+
+\bibitem{10.5555/2188385.2188410}
+A.~Gretton, K.~M. Borgwardt, M.~J. Rasch, B.~Sch\"{o}lkopf, and A.~Smola, ``A
+  kernel two-sample test,'' {\em J. Mach. Learn. Res.}, vol.~13, p.~723–773,
+  mar 2012.
+
+\bibitem{Wang202222}
+Y.~Wang, Y.~Chen, P.~Chen, J.~Hu, and H.~Zheng, ``Application-based cooperative
+  content caching via tensor domain adaptation networks,'' p.~22 – 27, 2022.
+
+\bibitem{ganin2015unsupervised}
+Y.~Ganin and V.~Lempitsky, ``Unsupervised domain adaptation by
+  backpropagation,'' 2015.
+
+\bibitem{pmlr-v176-eichenberger22a}
+C.~Eichenberger, M.~Neun, H.~Martin, P.~Herruzo, M.~Spanring, Y.~Lu, S.~Choi,
+  V.~Konyakhin, N.~Lukashina, A.~Shpilman, N.~Wiedemann, M.~Raubal, B.~Wang,
+  H.~L. Vu, R.~Mohajerpoor, C.~Cai, I.~Kim, L.~Hermes, A.~Melnik, R.~Velioglu,
+  M.~Vieth, M.~Schilling, A.~Bojesomo, H.~A. Marzouqi, P.~Liatsis, J.~Santokhi,
+  D.~Hillier, Y.~Yang, J.~Sarwar, A.~Jordan, E.~Hewage, D.~Jonietz, F.~Tang,
+  A.~Gruca, M.~Kopp, D.~Kreil, and S.~Hochreiter, ``Traffic4cast at neurips
+  2021 - temporal and spatial few-shot transfer learning in gridded geo-spatial
+  processes,'' in {\em Proceedings of the NeurIPS 2021 Competitions and
+  Demonstrations Track} (D.~Kiela, M.~Ciccone, and B.~Caputo, eds.), vol.~176
+  of {\em Proceedings of Machine Learning Research}, pp.~97--112, PMLR, 06--14
+  Dec 2022.
+
+\bibitem{Hinton2006}
+G.~E. Hinton and R.~R. Salakhutdinov, ``Reducing the dimensionality of data
+  with neural networks,'' {\em Science}, vol.~313, p.~504–507, July 2006.
+
+\bibitem{fan2023spatiotemporal}
+Y.~Fan, X.~Yu, R.~Wieser, D.~Meakin, A.~Shaton, J.-N. Jaubert, R.~Flottemesch,
+  M.~Howell, J.~Braid, L.~S. Bruckman, R.~French, and Y.~Wu, ``Spatio-temporal
+  denoising graph autoencoders with data augmentation for photovoltaic
+  timeseries data imputation,'' 2023.
+
+\bibitem{sabbaqi2022graph}
+M.~Sabbaqi, R.~Taormina, A.~Hanjalic, and E.~Isufi, ``Graph-time convolutional
+  autoencoders,'' in {\em Learning on Graphs Conference}, pp.~24--1, PMLR,
+  2022.
+
+\bibitem{rozemberczki2021pytorch}
+B.~Rozemberczki, P.~Scherer, Y.~He, G.~Panagopoulos, A.~Riedel, M.~Astefanoaei,
+  O.~Kiss, F.~Beres, G.~Lopez, N.~Collignon, and R.~Sarkar, ``{PyTorch
+  Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine
+  Learning Models},'' in {\em Proceedings of the 30th ACM International
+  Conference on Information and Knowledge Management}, p.~4564–4573, 2021.
+
+\bibitem{Seo_2018}
+Y.~Seo, M.~Defferrard, P.~Vandergheynst, and X.~Bresson, {\em Structured
+  Sequence Modeling with Graph Convolutional Recurrent Networks}, p.~362–373.
+\newblock Springer International Publishing, 2018.
+
+\bibitem{cnn_graph}
+M.~Defferrard, X.~Bresson, and P.~Vandergheynst, ``Convolutional neural
+  networks on graphs with fast localized spectral filtering,'' in {\em Advances
+  in Neural Information Processing Systems}, 2016.
+
+\bibitem{abs-2006-11583}
+J.~Zhu, Y.~Song, L.~Zhao, and H.~Li, ``{A3T-GCN:} attention temporal graph
+  convolutional network for traffic forecasting,'' {\em CoRR},
+  vol.~abs/2006.11583, 2020.
+
+\bibitem{abs-1711-05101}
+I.~Loshchilov and F.~Hutter, ``Fixing weight decay regularization in adam,''
+  {\em CoRR}, vol.~abs/1711.05101, 2017.
+
+\bibitem{1678242}
+B.~Zhou, D.~He, and Z.~Sun, ``Traffic predictability based on arima/garch
+  model,'' in {\em 2006 2nd Conference on Next Generation Internet Design and
+  Engineering, 2006. NGI '06.}, pp.~8 pp.--207, 2006.
+
+\end{thebibliography}

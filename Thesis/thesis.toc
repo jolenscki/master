@@ -1,0 +1,67 @@
+\vspace {-10pt}
+\contentsline {chapter}{\numberline {1}Introduction}{10}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{10}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Questions}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Contribution}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Outline}{11}{section.1.4}%
+\vspace {-10pt}
+\contentsline {chapter}{\numberline {2}Literature Review}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Traffic Forecasting}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Transfer Learning}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Domain Adaptation}{15}{subsection.2.2.1}%
+\vspace {-10pt}
+\contentsline {chapter}{\numberline {3}Methodology}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Data Analysis and Exploration}{17}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Data processing}{18}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Model Outline}{19}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Task}{19}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Proposed Architecture}{21}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Feature Extraction Network}{22}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Autoencoder}{22}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Fine Tuning}{25}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Domain Adaptation}{25}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Prediction Network}{28}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Model Training}{29}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Loss Functions}{31}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Mean Squared Error (MSE)}{31}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Root Mean Squared Error (RMSE)}{34}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Mean Absolute Error (MAE)}{34}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Mean Absolute Percentage Error (MAPE)}{34}{subsection.3.7.4}%
+\contentsline {subsection}{\numberline {3.7.5}Weighted Mean Squared Error (WMSE)}{34}{subsection.3.7.5}%
+\contentsline {subsection}{\numberline {3.7.6}Mean Squared Logarithm Error (MSLE)}{35}{subsection.3.7.6}%
+\contentsline {subsection}{\numberline {3.7.7}Weighted Mean Squared Logarithm Error (WMSLE)}{35}{subsection.3.7.7}%
+\contentsline {subsection}{\numberline {3.7.8}Custom Huber Loss}{35}{subsection.3.7.8}%
+\contentsline {subsection}{\numberline {3.7.9}Log-Cosh Loss}{36}{subsection.3.7.9}%
+\contentsline {subsection}{\numberline {3.7.10}Binary Cross Entropy}{36}{subsection.3.7.10}%
+\contentsline {section}{\numberline {3.8}Baselines}{36}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Historical Average}{36}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}ARIMA}{36}{subsection.3.8.2}%
+\vspace {-10pt}
+\contentsline {chapter}{\numberline {4}Results}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Computational Specifications and Training Times}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Autoencoder Experiments}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Experiment 1: Impact of the Chebyshev polynomial degree parameter on the autoencoder's performance}{38}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Experiment 2: Impact of the number of source cities on the autoencoder's performance}{39}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Experiment 3: Impact of the activation function on the autoencoder's performance}{40}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Experiment 4: Impact of the criterion function on the autoencoder's performance}{41}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Experiment 5: Impact of the latent dimension's size the autoencoder's performance}{42}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Experiment 6: Pretraining as a domain adaptation technique for the autoencoder}{44}{subsection.4.2.6}%
+\contentsline {section}{\numberline {4.3}Predictor Experiments}{45}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Experiment 7: Impact of the lambda regularization on the predictor}{45}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Experiment 8: Impact of the linear layer dimension on the predictor}{47}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Experiment 9: impact of the number of epochs on the predictor}{48}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Experiment 10: Impact of the scarcity of the target dataset}{49}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Full Model Experiments}{50}{section.4.4}%
+\vspace {-10pt}
+\contentsline {chapter}{\numberline {5}Discussion}{51}{chapter.5}%
+\contentsline {section}{\numberline {5.1}On the hyperparameter search}{51}{section.5.1}%
+\contentsline {section}{\numberline {5.2}On the model's performance}{51}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Research Questions}{51}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Q.1}{51}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Q.2}{51}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Q.3}{51}{subsection.5.3.3}%
+\vspace {-10pt}
+\contentsline {chapter}{\numberline {6}Conclusion}{52}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Summary and Contribution}{52}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Limitations and Future Research}{52}{section.6.2}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

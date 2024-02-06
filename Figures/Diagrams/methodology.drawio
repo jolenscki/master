@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" modified="2023-09-15T14:27:01.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="93uL66cfOIJVT_zG-jyZ" version="21.6.9" type="device">
+  <diagram name="Página-1" id="CM7xXL9TFIMstkw43hbP">
+    <mxGraphModel dx="2441" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TZEs_C2Npx3VACR037P8-61" value="City B&#39;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#DDE8C8;strokeColor=#94B383;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="98" y="165" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-60" value="City B" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="98" y="145" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-15" value="City A&#39;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#3399FF;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="99" y="125" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-1" value="City A" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="98" y="105" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-17" value="Augmented Source Cities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="128" y="235" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-18" value="City T" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="99" y="290" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-19" value="Target City" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="169" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-22" target="TZEs_C2Npx3VACR037P8-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="169.71" as="sourcePoint" />
+            <mxPoint x="580" y="169.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-21" value="Spatio-Temporal Features Extractor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="590" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-22" value="Pre-processing (spatial structure)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" target="TZEs_C2Npx3VACR037P8-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="170" as="sourcePoint" />
+            <mxPoint x="370" y="169.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-26" target="TZEs_C2Npx3VACR037P8-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="324.71000000000004" as="sourcePoint" />
+            <mxPoint x="580" y="324.71000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-25" value="Spatio-Temporal Features Extractor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="590" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-26" value="Pre-processing (spatial structure)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="380" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-18" target="TZEs_C2Npx3VACR037P8-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="325" as="sourcePoint" />
+            <mxPoint x="370" y="324.71000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-21" target="TZEs_C2Npx3VACR037P8-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="210" as="sourcePoint" />
+            <mxPoint x="620" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-30" value="Parameter sharing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-35" value="External Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="139" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-35" target="TZEs_C2Npx3VACR037P8-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-37" value="Features Extractor" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-37" target="TZEs_C2Npx3VACR037P8-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="450" as="sourcePoint" />
+            <mxPoint x="760" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="169.71" as="sourcePoint" />
+            <mxPoint x="730" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-42" value="Sources Prediction" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="827" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" source="TZEs_C2Npx3VACR037P8-25" target="TZEs_C2Npx3VACR037P8-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="320.71000000000004" as="sourcePoint" />
+            <mxPoint x="750" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-44" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="750" y="315" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" target="TZEs_C2Npx3VACR037P8-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="324.85999999999996" as="sourcePoint" />
+            <mxPoint x="827" y="325.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-46" value="Target Prediction" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="827" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-51" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="730" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" target="TZEs_C2Npx3VACR037P8-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="450" as="sourcePoint" />
+            <mxPoint x="830" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1" target="TZEs_C2Npx3VACR037P8-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="170" as="sourcePoint" />
+            <mxPoint x="800" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-55" value="$$\mathcal{L}_{target}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="857" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-56" value="$$\mathcal{L}_{sources}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="857" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="19" y="174.66" as="sourcePoint" />
+            <mxPoint x="99" y="174.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-59" value="Data augmentation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-62" value="City B" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="150" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-63" value="City A" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="130" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="174.66" as="sourcePoint" />
+            <mxPoint x="-100" y="174.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZEs_C2Npx3VACR037P8-65" value="Source Cities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="-351" y="230" width="142" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

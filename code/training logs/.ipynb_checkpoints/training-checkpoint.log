@@ -1,0 +1,3276 @@
+INFO:root:
+                    E: 0, B: 0, Total: 5.4152, RMSE: 5.3874, MMD: 0.2787
+                    
+INFO:root:
+                    E: 0, B: 1, Total: 5.2369, RMSE: 5.1835, MMD: 0.5344
+                    
+INFO:root:
+                    E: 0, B: 2, Total: 5.4998, RMSE: 5.4188, MMD: 0.8096
+                    
+INFO:root:
+                    E: 0, B: 3, Total: 5.5114, RMSE: 5.4036, MMD: 1.0777
+                    
+INFO:root:
+                    E: 0, B: 4, Total: 5.4355, RMSE: 5.3017, MMD: 1.3380
+                    
+INFO:root:
+                    E: 0, B: 5, Total: 5.2093, RMSE: 5.0492, MMD: 1.6009
+                    
+INFO:root:
+                    E: 0, B: 6, Total: 5.7723, RMSE: 5.5869, MMD: 1.8537
+                    
+INFO:root:
+                    E: 0, B: 7, Total: 5.3373, RMSE: 5.1255, MMD: 2.1181
+                    
+INFO:root:
+                    E: 0, B: 8, Total: 5.4036, RMSE: 5.1654, MMD: 2.3815
+                    
+INFO:root:
+                    E: 0, B: 9, Total: 5.7624, RMSE: 5.4989, MMD: 2.6353
+                    
+INFO:root:
+                    E: 0, B: 10, Total: 5.6099, RMSE: 5.3216, MMD: 2.8830
+                    
+INFO:root:
+                    E: 0, B: 11, Total: 5.3903, RMSE: 5.0770, MMD: 3.1327
+                    
+INFO:root:
+                    E: 0, B: 12, Total: 5.5898, RMSE: 5.2506, MMD: 3.3922
+                    
+INFO:root:
+                    E: 0, B: 13, Total: 5.7459, RMSE: 5.3831, MMD: 3.6284
+                    
+INFO:root:
+                    E: 0, B: 14, Total: 5.4620, RMSE: 5.0742, MMD: 3.8778
+                    
+INFO:root:
+                    E: 0, B: 15, Total: 5.6256, RMSE: 5.2138, MMD: 4.1177
+                    
+INFO:root:
+                    E: 0, B: 16, Total: 5.7590, RMSE: 5.3229, MMD: 4.3608
+                    
+INFO:root:
+                    E: 0, B: 17, Total: 5.4807, RMSE: 5.0205, MMD: 4.6018
+                    
+INFO:root:
+                    E: 0, B: 18, Total: 5.8133, RMSE: 5.3301, MMD: 4.8321
+                    
+INFO:root:
+                    E: 0, B: 19, Total: 5.8659, RMSE: 5.3589, MMD: 5.0704
+                    
+INFO:root:
+                    E: 0, B: 20, Total: 5.6241, RMSE: 5.0936, MMD: 5.3051
+                    
+INFO:root:
+                    E: 0, B: 21, Total: 5.8902, RMSE: 5.3369, MMD: 5.5327
+                    
+INFO:root:
+                    E: 0, B: 22, Total: 5.7567, RMSE: 5.1799, MMD: 5.7683
+                    
+INFO:root:
+                    E: 0, B: 23, Total: 5.8649, RMSE: 5.2652, MMD: 5.9966
+                    
+INFO:root:
+                    E: 0, B: 24, Total: 6.0009, RMSE: 5.3787, MMD: 6.2220
+                    
+INFO:root:
+                    E: 0, B: 25, Total: 5.8907, RMSE: 5.2463, MMD: 6.4442
+                    
+INFO:root:
+                    E: 0, B: 26, Total: 5.6823, RMSE: 5.0163, MMD: 6.6601
+                    
+INFO:root:
+                    E: 0, B: 27, Total: 6.2494, RMSE: 5.5614, MMD: 6.8801
+                    
+INFO:root:
+                    E: 0, B: 28, Total: 5.8251, RMSE: 5.1151, MMD: 7.0998
+                    
+INFO:root:
+                    E: 0, B: 29, Total: 5.8922, RMSE: 5.1609, MMD: 7.3136
+                    
+INFO:root:
+                    E: 0, B: 30, Total: 6.2547, RMSE: 5.5016, MMD: 7.5311
+                    
+INFO:root:
+                    E: 0, B: 31, Total: 6.0953, RMSE: 5.3200, MMD: 7.7536
+                    
+INFO:root:
+                    E: 0, B: 32, Total: 5.8642, RMSE: 5.0674, MMD: 7.9678
+                    
+INFO:root:
+                    E: 0, B: 33, Total: 6.0665, RMSE: 5.2490, MMD: 8.1755
+                    
+INFO:root:
+                    E: 0, B: 34, Total: 6.2128, RMSE: 5.3750, MMD: 8.3778
+                    
+INFO:root:
+                    E: 0, B: 35, Total: 5.9298, RMSE: 5.0713, MMD: 8.5844
+                    
+INFO:root:
+                    E: 0, B: 36, Total: 6.0856, RMSE: 5.2064, MMD: 8.7916
+                    
+INFO:root:
+                    E: 0, B: 37, Total: 6.2180, RMSE: 5.3180, MMD: 8.9999
+                    
+INFO:root:
+                    E: 0, B: 38, Total: 5.9343, RMSE: 5.0143, MMD: 9.1997
+                    
+INFO:root:
+                    E: 0, B: 39, Total: 6.2645, RMSE: 5.3241, MMD: 9.4041
+                    
+INFO:root:
+                    E: 0, B: 40, Total: 6.3155, RMSE: 5.3551, MMD: 9.6046
+                    
+INFO:root:
+                    E: 0, B: 41, Total: 6.0696, RMSE: 5.0888, MMD: 9.8073
+                    
+INFO:root:
+                    E: 0, B: 42, Total: 6.3366, RMSE: 5.3360, MMD: 10.0066
+                    
+INFO:root:
+                    E: 0, B: 43, Total: 6.1997, RMSE: 5.1793, MMD: 10.2043
+                    
+INFO:root:
+                    E: 0, B: 44, Total: 6.3018, RMSE: 5.2615, MMD: 10.4032
+                    
+INFO:root:
+                    E: 0, B: 45, Total: 6.4357, RMSE: 5.3758, MMD: 10.5992
+                    
+INFO:root:
+                    E: 0, B: 46, Total: 6.3263, RMSE: 5.2461, MMD: 10.8020
+                    
+INFO:root:
+                    E: 0, B: 47, Total: 6.1147, RMSE: 5.0152, MMD: 10.9949
+                    
+INFO:root:
+                    E: 0, B: 48, Total: 6.6775, RMSE: 5.5585, MMD: 11.1901
+                    
+INFO:root:
+                    E: 0, B: 49, Total: 6.2535, RMSE: 5.1151, MMD: 11.3842
+                    
+INFO:root:
+                    E: 0, B: 50, Total: 6.3184, RMSE: 5.1616, MMD: 11.5674
+                    
+INFO:root:
+                    E: 0, B: 51, Total: 6.6749, RMSE: 5.4986, MMD: 11.7627
+                    
+INFO:root:
+                    E: 0, B: 52, Total: 6.5160, RMSE: 5.3201, MMD: 11.9598
+                    
+INFO:root:
+                    E: 0, B: 53, Total: 6.2818, RMSE: 5.0669, MMD: 12.1494
+                    
+INFO:root:
+                    E: 0, B: 54, Total: 6.4825, RMSE: 5.2486, MMD: 12.3385
+                    
+INFO:root:
+                    E: 0, B: 55, Total: 6.6290, RMSE: 5.3769, MMD: 12.5213
+                    
+INFO:root:
+                    E: 0, B: 56, Total: 6.3418, RMSE: 5.0715, MMD: 12.7031
+                    
+INFO:root:
+                    E: 0, B: 57, Total: 6.4952, RMSE: 5.2059, MMD: 12.8926
+                    
+INFO:root:
+                    E: 0, B: 58, Total: 6.6259, RMSE: 5.3182, MMD: 13.0767
+                    
+INFO:root:
+                    E: 0, B: 59, Total: 6.3413, RMSE: 5.0151, MMD: 13.2629
+                    
+INFO:root:
+                    E: 0, B: 60, Total: 6.6685, RMSE: 5.3241, MMD: 13.4439
+                    
+INFO:root:
+                    E: 0, B: 61, Total: 6.7181, RMSE: 5.3550, MMD: 13.6308
+                    
+INFO:root:
+                    E: 0, B: 62, Total: 6.4704, RMSE: 5.0896, MMD: 13.8081
+                    
+INFO:root:
+                    E: 0, B: 63, Total: 6.7351, RMSE: 5.3363, MMD: 13.9876
+                    
+INFO:root:
+                    E: 0, B: 64, Total: 6.5957, RMSE: 5.1786, MMD: 14.1704
+                    
+INFO:root:
+                    E: 0, B: 65, Total: 6.6957, RMSE: 5.2614, MMD: 14.3439
+                    
+INFO:root:
+                    E: 0, B: 66, Total: 6.8278, RMSE: 5.3761, MMD: 14.5168
+                    
+INFO:root:
+                    E: 0, B: 67, Total: 6.7165, RMSE: 5.2464, MMD: 14.7013
+                    
+INFO:root:
+                    E: 0, B: 68, Total: 6.5029, RMSE: 5.0157, MMD: 14.8712
+                    
+INFO:root:
+                    E: 0, B: 69, Total: 7.0626, RMSE: 5.5577, MMD: 15.0495
+                    
+INFO:root:
+                    E: 0, B: 70, Total: 6.6379, RMSE: 5.1150, MMD: 15.2286
+                    
+INFO:root:
+                    E: 0, B: 71, Total: 6.7012, RMSE: 5.1614, MMD: 15.3986
+                    
+INFO:root:
+                    E: 0, B: 72, Total: 7.0561, RMSE: 5.4981, MMD: 15.5802
+                    
+INFO:root:
+                    E: 0, B: 73, Total: 6.8961, RMSE: 5.3201, MMD: 15.7608
+                    
+INFO:root:
+                    E: 0, B: 74, Total: 6.6589, RMSE: 5.0667, MMD: 15.9219
+                    
+INFO:root:
+                    E: 0, B: 75, Total: 6.8581, RMSE: 5.2485, MMD: 16.0963
+                    
+INFO:root:
+                    E: 0, B: 76, Total: 7.0034, RMSE: 5.3769, MMD: 16.2649
+                    
+INFO:root:
+                    E: 0, B: 77, Total: 6.7148, RMSE: 5.0711, MMD: 16.4365
+                    
+INFO:root:
+                    E: 0, B: 78, Total: 6.8669, RMSE: 5.2062, MMD: 16.6067
+                    
+INFO:root:
+                    E: 0, B: 79, Total: 6.9955, RMSE: 5.3181, MMD: 16.7738
+                    
+INFO:root:
+                    E: 0, B: 80, Total: 6.7094, RMSE: 5.0153, MMD: 16.9411
+                    
+INFO:root:
+                    E: 0, B: 81, Total: 7.0349, RMSE: 5.3238, MMD: 17.1110
+                    
+INFO:root:
+                    E: 0, B: 82, Total: 7.0829, RMSE: 5.3549, MMD: 17.2795
+                    
+INFO:root:
+                    E: 0, B: 83, Total: 6.8340, RMSE: 5.0896, MMD: 17.4438
+                    
+INFO:root:
+                    E: 0, B: 84, Total: 7.0969, RMSE: 5.3360, MMD: 17.6093
+                    
+INFO:root:
+                    E: 0, B: 85, Total: 6.9555, RMSE: 5.1786, MMD: 17.7690
+                    
+INFO:root:
+                    E: 0, B: 86, Total: 7.0552, RMSE: 5.2613, MMD: 17.9383
+                    
+INFO:root:
+                    E: 0, B: 87, Total: 7.1858, RMSE: 5.3760, MMD: 18.0978
+                    
+INFO:root:
+                    E: 0, B: 88, Total: 7.0721, RMSE: 5.2465, MMD: 18.2564
+                    
+INFO:root:
+                    E: 0, B: 89, Total: 6.8568, RMSE: 5.0153, MMD: 18.4155
+                    
+INFO:root:
+                    E: 0, B: 90, Total: 7.4146, RMSE: 5.5574, MMD: 18.5717
+                    
+INFO:root:
+                    E: 0, B: 91, Total: 6.9882, RMSE: 5.1152, MMD: 18.7303
+                    
+INFO:root:
+                    E: 0, B: 92, Total: 7.0500, RMSE: 5.1609, MMD: 18.8913
+                    
+INFO:root:
+                    E: 0, B: 93, Total: 7.4023, RMSE: 5.4975, MMD: 19.0478
+                    
+INFO:root:
+                    E: 0, B: 94, Total: 7.2404, RMSE: 5.3201, MMD: 19.2034
+                    
+INFO:root:
+                    E: 0, B: 95, Total: 7.0022, RMSE: 5.0671, MMD: 19.3510
+                    
+INFO:root:
+                    E: 0, B: 96, Total: 7.1994, RMSE: 5.2484, MMD: 19.5096
+                    
+INFO:root:
+                    E: 0, B: 97, Total: 7.3437, RMSE: 5.3772, MMD: 19.6654
+                    
+INFO:root:
+                    E: 0, B: 98, Total: 7.0529, RMSE: 5.0712, MMD: 19.8175
+                    
+INFO:root:
+                    E: 0, B: 99, Total: 7.2030, RMSE: 5.2064, MMD: 19.9659
+                    
+INFO:root:
+                    E: 0, B: 100, Total: 7.3297, RMSE: 5.3179, MMD: 20.1177
+                    
+INFO:root:
+                    E: 0, B: 101, Total: 7.0422, RMSE: 5.0156, MMD: 20.2664
+                    
+INFO:root:
+                    E: 0, B: 102, Total: 7.3652, RMSE: 5.3236, MMD: 20.4158
+                    
+INFO:root:
+                    E: 0, B: 103, Total: 7.4103, RMSE: 5.3548, MMD: 20.5554
+                    
+INFO:root:
+                    E: 0, B: 104, Total: 7.1603, RMSE: 5.0893, MMD: 20.7102
+                    
+INFO:root:
+                    E: 0, B: 105, Total: 7.4215, RMSE: 5.3358, MMD: 20.8565
+                    
+INFO:root:
+                    E: 0, B: 106, Total: 7.2794, RMSE: 5.1787, MMD: 21.0074
+                    
+INFO:root:
+                    E: 0, B: 107, Total: 7.3767, RMSE: 5.2614, MMD: 21.1529
+                    
+INFO:root:
+                    E: 0, B: 108, Total: 7.5052, RMSE: 5.3760, MMD: 21.2925
+                    
+INFO:root:
+                    E: 0, B: 109, Total: 7.3903, RMSE: 5.2467, MMD: 21.4357
+                    
+INFO:root:
+                    E: 0, B: 110, Total: 7.1731, RMSE: 5.0153, MMD: 21.5775
+                    
+INFO:root:
+                    E: 0, B: 111, Total: 7.7288, RMSE: 5.5570, MMD: 21.7178
+                    
+INFO:root:
+                    E: 0, B: 112, Total: 7.3013, RMSE: 5.1157, MMD: 21.8566
+                    
+INFO:root:
+                    E: 0, B: 113, Total: 7.3604, RMSE: 5.1606, MMD: 21.9989
+                    
+INFO:root:
+                    E: 0, B: 114, Total: 7.7111, RMSE: 5.4971, MMD: 22.1402
+                    
+INFO:root:
+                    E: 0, B: 115, Total: 7.5478, RMSE: 5.3200, MMD: 22.2771
+                    
+INFO:root:
+                    E: 0, B: 116, Total: 7.3094, RMSE: 5.0676, MMD: 22.4179
+                    
+INFO:root:
+                    E: 0, B: 117, Total: 7.5048, RMSE: 5.2487, MMD: 22.5611
+                    
+INFO:root:
+                    E: 0, B: 118, Total: 7.6468, RMSE: 5.3776, MMD: 22.6915
+                    
+INFO:root:
+                    E: 0, B: 119, Total: 7.3535, RMSE: 5.0712, MMD: 22.8232
+                    
+INFO:root:
+                    E: 0, B: 120, Total: 7.5030, RMSE: 5.2070, MMD: 22.9603
+                    
+INFO:root:
+                    E: 0, B: 121, Total: 7.6278, RMSE: 5.3183, MMD: 23.0950
+                    
+INFO:root:
+                    E: 0, B: 122, Total: 7.3390, RMSE: 5.0158, MMD: 23.2319
+                    
+INFO:root:
+                    E: 0, B: 123, Total: 7.6601, RMSE: 5.3237, MMD: 23.3643
+                    
+INFO:root:
+                    E: 0, B: 124, Total: 7.7050, RMSE: 5.3549, MMD: 23.5007
+                    
+INFO:root:
+                    E: 0, B: 125, Total: 7.4521, RMSE: 5.0889, MMD: 23.6320
+                    
+INFO:root:
+                    E: 0, B: 126, Total: 7.7121, RMSE: 5.3355, MMD: 23.7657
+                    
+INFO:root:
+                    E: 0, B: 127, Total: 7.5685, RMSE: 5.1785, MMD: 23.8994
+                    
+INFO:root:
+                    E: 0, B: 128, Total: 7.6643, RMSE: 5.2616, MMD: 24.0270
+                    
+INFO:root:
+                    E: 0, B: 129, Total: 7.7910, RMSE: 5.3760, MMD: 24.1496
+                    
+INFO:root:
+                    E: 0, B: 130, Total: 7.6741, RMSE: 5.2467, MMD: 24.2735
+                    
+INFO:root:
+                    E: 0, B: 131, Total: 7.4560, RMSE: 5.0155, MMD: 24.4045
+                    
+INFO:root:
+                    E: 0, B: 132, Total: 8.0092, RMSE: 5.5569, MMD: 24.5228
+                    
+INFO:root:
+                    E: 0, B: 133, Total: 7.5812, RMSE: 5.1162, MMD: 24.6494
+                    
+INFO:root:
+                    E: 0, B: 134, Total: 7.6377, RMSE: 5.1603, MMD: 24.7739
+                    
+INFO:root:
+                    E: 0, B: 135, Total: 7.9866, RMSE: 5.4967, MMD: 24.8989
+                    
+INFO:root:
+                    E: 0, B: 136, Total: 7.8226, RMSE: 5.3199, MMD: 25.0275
+                    
+INFO:root:
+                    E: 0, B: 137, Total: 7.5832, RMSE: 5.0680, MMD: 25.1514
+                    
+INFO:root:
+                    E: 0, B: 138, Total: 7.7761, RMSE: 5.2486, MMD: 25.2744
+                    
+INFO:root:
+                    E: 0, B: 139, Total: 7.9170, RMSE: 5.3776, MMD: 25.3947
+                    
+INFO:root:
+                    E: 0, B: 140, Total: 7.6225, RMSE: 5.0711, MMD: 25.5136
+                    
+INFO:root:
+                    E: 0, B: 141, Total: 7.7704, RMSE: 5.2071, MMD: 25.6335
+                    
+INFO:root:
+                    E: 0, B: 142, Total: 7.8935, RMSE: 5.3183, MMD: 25.7518
+                    
+INFO:root:
+                    E: 0, B: 143, Total: 7.6027, RMSE: 5.0159, MMD: 25.8688
+                    
+INFO:root:
+                    E: 0, B: 144, Total: 7.9224, RMSE: 5.3238, MMD: 25.9862
+                    
+INFO:root:
+                    E: 0, B: 145, Total: 7.9661, RMSE: 5.3552, MMD: 26.1088
+                    
+INFO:root:
+                    E: 0, B: 146, Total: 7.7112, RMSE: 5.0885, MMD: 26.2273
+                    
+INFO:root:
+                    E: 0, B: 147, Total: 7.9696, RMSE: 5.3353, MMD: 26.3430
+                    
+INFO:root:
+                    E: 0, B: 148, Total: 7.8240, RMSE: 5.1781, MMD: 26.4587
+                    
+INFO:root:
+                    E: 0, B: 149, Total: 7.9185, RMSE: 5.2616, MMD: 26.5694
+                    
+INFO:root:
+                    E: 0, B: 150, Total: 8.0443, RMSE: 5.3758, MMD: 26.6848
+                    
+INFO:root:
+                    E: 0, B: 151, Total: 7.9263, RMSE: 5.2464, MMD: 26.7988
+                    
+INFO:root:
+                    E: 0, B: 152, Total: 7.7063, RMSE: 5.0153, MMD: 26.9104
+                    
+INFO:root:
+                    E: 0, B: 153, Total: 8.2594, RMSE: 5.5568, MMD: 27.0255
+                    
+INFO:root:
+                    E: 0, B: 154, Total: 7.8303, RMSE: 5.1164, MMD: 27.1380
+                    
+INFO:root:
+                    E: 0, B: 155, Total: 7.8853, RMSE: 5.1602, MMD: 27.2507
+                    
+INFO:root:
+                    E: 0, B: 156, Total: 8.2328, RMSE: 5.4968, MMD: 27.3600
+                    
+INFO:root:
+                    E: 0, B: 157, Total: 8.0667, RMSE: 5.3198, MMD: 27.4680
+                    
+INFO:root:
+                    E: 0, B: 158, Total: 7.8261, RMSE: 5.0684, MMD: 27.5775
+                    
+INFO:root:
+                    E: 0, B: 159, Total: 8.0174, RMSE: 5.2485, MMD: 27.6893
+                    
+INFO:root:
+                    E: 0, B: 160, Total: 8.1568, RMSE: 5.3774, MMD: 27.7937
+                    
+INFO:root:
+                    E: 0, B: 161, Total: 7.8611, RMSE: 5.0708, MMD: 27.9027
+                    
+INFO:root:
+                    E: 0, B: 162, Total: 8.0076, RMSE: 5.2069, MMD: 28.0069
+                    
+INFO:root:
+                    E: 0, B: 163, Total: 8.1292, RMSE: 5.3180, MMD: 28.1121
+                    
+INFO:root:
+                    E: 0, B: 164, Total: 7.8372, RMSE: 5.0156, MMD: 28.2159
+                    
+INFO:root:
+                    E: 0, B: 165, Total: 8.1552, RMSE: 5.3237, MMD: 28.3149
+                    
+INFO:root:
+                    E: 0, B: 166, Total: 8.1971, RMSE: 5.3553, MMD: 28.4182
+                    
+INFO:root:
+                    E: 0, B: 167, Total: 7.9402, RMSE: 5.0884, MMD: 28.5177
+                    
+INFO:root:
+                    E: 0, B: 168, Total: 8.1970, RMSE: 5.3352, MMD: 28.6174
+                    
+INFO:root:
+                    E: 0, B: 169, Total: 8.0496, RMSE: 5.1779, MMD: 28.7170
+                    
+INFO:root:
+                    E: 0, B: 170, Total: 8.1435, RMSE: 5.2618, MMD: 28.8178
+                    
+INFO:root:
+                    E: 0, B: 171, Total: 8.2677, RMSE: 5.3759, MMD: 28.9179
+                    
+INFO:root:
+                    E: 0, B: 172, Total: 8.1481, RMSE: 5.2462, MMD: 29.0195
+                    
+INFO:root:
+                    E: 0, B: 173, Total: 7.9266, RMSE: 5.0149, MMD: 29.1169
+                    
+INFO:root:
+                    E: 0, B: 174, Total: 8.4784, RMSE: 5.5566, MMD: 29.2177
+                    
+INFO:root:
+                    E: 0, B: 175, Total: 8.0477, RMSE: 5.1164, MMD: 29.3124
+                    
+INFO:root:
+                    E: 0, B: 176, Total: 8.1006, RMSE: 5.1599, MMD: 29.4071
+                    
+INFO:root:
+                    E: 0, B: 177, Total: 8.4478, RMSE: 5.4970, MMD: 29.5076
+                    
+INFO:root:
+                    E: 0, B: 178, Total: 8.2805, RMSE: 5.3198, MMD: 29.6075
+                    
+INFO:root:
+                    E: 0, B: 179, Total: 8.0389, RMSE: 5.0683, MMD: 29.7059
+                    
+INFO:root:
+                    E: 0, B: 180, Total: 8.2285, RMSE: 5.2484, MMD: 29.8005
+                    
+INFO:root:
+                    E: 0, B: 181, Total: 8.3671, RMSE: 5.3773, MMD: 29.8972
+                    
+INFO:root:
+                    E: 0, B: 182, Total: 8.0697, RMSE: 5.0705, MMD: 29.9925
+                    
+INFO:root:
+                    E: 0, B: 183, Total: 8.2155, RMSE: 5.2068, MMD: 30.0872
+                    
+INFO:root:
+                    E: 0, B: 184, Total: 8.3358, RMSE: 5.3177, MMD: 30.1817
+                    
+INFO:root:
+                    E: 0, B: 185, Total: 8.0427, RMSE: 5.0153, MMD: 30.2735
+                    
+INFO:root:
+                    E: 0, B: 186, Total: 8.3599, RMSE: 5.3235, MMD: 30.3637
+                    
+INFO:root:
+                    E: 0, B: 187, Total: 8.4003, RMSE: 5.3552, MMD: 30.4511
+                    
+INFO:root:
+                    E: 0, B: 188, Total: 8.1432, RMSE: 5.0885, MMD: 30.5466
+                    
+INFO:root:
+                    E: 0, B: 189, Total: 8.3989, RMSE: 5.3351, MMD: 30.6381
+                    
+INFO:root:
+                    E: 0, B: 190, Total: 8.2508, RMSE: 5.1778, MMD: 30.7300
+                    
+INFO:root:
+                    E: 0, B: 191, Total: 8.3435, RMSE: 5.2619, MMD: 30.8158
+                    
+INFO:root:
+                    E: 0, B: 192, Total: 8.4659, RMSE: 5.3760, MMD: 30.8985
+                    
+INFO:root:
+                    E: 0, B: 193, Total: 8.3451, RMSE: 5.2462, MMD: 30.9891
+                    
+INFO:root:
+                    E: 0, B: 194, Total: 8.1219, RMSE: 5.0145, MMD: 31.0744
+                    
+INFO:root:
+                    E: 0, B: 195, Total: 8.6727, RMSE: 5.5564, MMD: 31.1622
+                    
+INFO:root:
+                    E: 0, B: 196, Total: 8.2414, RMSE: 5.1165, MMD: 31.2491
+                    
+INFO:root:
+                    E: 0, B: 197, Total: 8.2925, RMSE: 5.1596, MMD: 31.3295
+                    
+INFO:root:
+                    E: 0, B: 198, Total: 8.6386, RMSE: 5.4970, MMD: 31.4158
+                    
+INFO:root:
+                    E: 0, B: 199, Total: 8.4698, RMSE: 5.3197, MMD: 31.5004
+                    
+INFO:root:
+                    E: 0, B: 200, Total: 8.2265, RMSE: 5.0679, MMD: 31.5855
+                    
+INFO:root:
+                    E: 0, B: 201, Total: 8.4151, RMSE: 5.2483, MMD: 31.6676
+                    
+INFO:root:
+                    E: 0, B: 202, Total: 8.5524, RMSE: 5.3773, MMD: 31.7514
+                    
+INFO:root:
+                    E: 0, B: 203, Total: 8.2533, RMSE: 5.0703, MMD: 31.8300
+                    
+INFO:root:
+                    E: 0, B: 204, Total: 8.3979, RMSE: 5.2068, MMD: 31.9112
+                    
+INFO:root:
+                    E: 0, B: 205, Total: 8.5170, RMSE: 5.3175, MMD: 31.9953
+                    
+INFO:root:
+                    E: 0, B: 206, Total: 8.2230, RMSE: 5.0153, MMD: 32.0772
+                    
+INFO:root:
+                    E: 0, B: 207, Total: 8.5391, RMSE: 5.3234, MMD: 32.1577
+                    
+INFO:root:
+                    E: 0, B: 208, Total: 8.5790, RMSE: 5.3551, MMD: 32.2391
+                    
+INFO:root:
+                    E: 0, B: 209, Total: 8.3206, RMSE: 5.0886, MMD: 32.3196
+                    
+INFO:root:
+                    E: 0, B: 210, Total: 8.5747, RMSE: 5.3349, MMD: 32.3982
+                    
+INFO:root:
+                    E: 0, B: 211, Total: 8.4257, RMSE: 5.1777, MMD: 32.4798
+                    
+INFO:root:
+                    E: 0, B: 212, Total: 8.5178, RMSE: 5.2618, MMD: 32.5596
+                    
+INFO:root:
+                    E: 0, B: 213, Total: 8.6394, RMSE: 5.3760, MMD: 32.6341
+                    
+INFO:root:
+                    E: 0, B: 214, Total: 8.5174, RMSE: 5.2462, MMD: 32.7116
+                    
+INFO:root:
+                    E: 0, B: 215, Total: 8.2932, RMSE: 5.0143, MMD: 32.7895
+                    
+INFO:root:
+                    E: 0, B: 216, Total: 8.8433, RMSE: 5.5564, MMD: 32.8686
+                    
+INFO:root:
+                    E: 0, B: 217, Total: 8.4109, RMSE: 5.1165, MMD: 32.9436
+                    
+INFO:root:
+                    E: 0, B: 218, Total: 8.4611, RMSE: 5.1594, MMD: 33.0172
+                    
+INFO:root:
+                    E: 0, B: 219, Total: 8.8064, RMSE: 5.4970, MMD: 33.0941
+                    
+INFO:root:
+                    E: 0, B: 220, Total: 8.6368, RMSE: 5.3197, MMD: 33.1711
+                    
+INFO:root:
+                    E: 0, B: 221, Total: 8.3924, RMSE: 5.0678, MMD: 33.2457
+                    
+INFO:root:
+                    E: 0, B: 222, Total: 8.5804, RMSE: 5.2481, MMD: 33.3224
+                    
+INFO:root:
+                    E: 0, B: 223, Total: 8.7169, RMSE: 5.3772, MMD: 33.3964
+                    
+INFO:root:
+                    E: 0, B: 224, Total: 8.4177, RMSE: 5.0703, MMD: 33.4741
+                    
+INFO:root:
+                    E: 0, B: 225, Total: 8.5613, RMSE: 5.2068, MMD: 33.5450
+                    
+INFO:root:
+                    E: 0, B: 226, Total: 8.6790, RMSE: 5.3174, MMD: 33.6160
+                    
+INFO:root:
+                    E: 0, B: 227, Total: 8.3838, RMSE: 5.0155, MMD: 33.6831
+                    
+INFO:root:
+                    E: 0, B: 228, Total: 8.6988, RMSE: 5.3233, MMD: 33.7546
+                    
+INFO:root:
+                    E: 0, B: 229, Total: 8.7380, RMSE: 5.3550, MMD: 33.8292
+                    
+INFO:root:
+                    E: 0, B: 230, Total: 8.4787, RMSE: 5.0887, MMD: 33.8992
+                    
+INFO:root:
+                    E: 0, B: 231, Total: 8.7318, RMSE: 5.3348, MMD: 33.9704
+                    
+INFO:root:
+                    E: 0, B: 232, Total: 8.5816, RMSE: 5.1777, MMD: 34.0394
+                    
+INFO:root:
+                    E: 0, B: 233, Total: 8.6725, RMSE: 5.2617, MMD: 34.1077
+                    
+INFO:root:
+                    E: 0, B: 234, Total: 8.7932, RMSE: 5.3759, MMD: 34.1725
+                    
+INFO:root:
+                    E: 0, B: 235, Total: 8.6703, RMSE: 5.2463, MMD: 34.2405
+                    
+INFO:root:
+                    E: 0, B: 236, Total: 8.4449, RMSE: 5.0142, MMD: 34.3070
+                    
+INFO:root:
+                    E: 0, B: 237, Total: 8.9939, RMSE: 5.5564, MMD: 34.3747
+                    
+INFO:root:
+                    E: 0, B: 238, Total: 8.5607, RMSE: 5.1165, MMD: 34.4413
+                    
+INFO:root:
+                    E: 0, B: 239, Total: 8.6099, RMSE: 5.1593, MMD: 34.5053
+                    
+INFO:root:
+                    E: 0, B: 240, Total: 8.9540, RMSE: 5.4969, MMD: 34.5710
+                    
+INFO:root:
+                    E: 0, B: 241, Total: 8.7831, RMSE: 5.3197, MMD: 34.6339
+                    
+INFO:root:
+                    E: 0, B: 242, Total: 8.5377, RMSE: 5.0679, MMD: 34.6989
+                    
+INFO:root:
+                    E: 0, B: 243, Total: 8.7242, RMSE: 5.2480, MMD: 34.7623
+                    
+INFO:root:
+                    E: 0, B: 244, Total: 8.8599, RMSE: 5.3772, MMD: 34.8268
+                    
+INFO:root:
+                    E: 0, B: 245, Total: 8.5593, RMSE: 5.0703, MMD: 34.8898
+                    
+INFO:root:
+                    E: 0, B: 246, Total: 8.7019, RMSE: 5.2067, MMD: 34.9516
+                    
+INFO:root:
+                    E: 0, B: 247, Total: 8.8189, RMSE: 5.3174, MMD: 35.0159
+                    
+INFO:root:
+                    E: 0, B: 248, Total: 8.5236, RMSE: 5.0156, MMD: 35.0802
+                    
+INFO:root:
+                    E: 0, B: 249, Total: 8.8375, RMSE: 5.3233, MMD: 35.1423
+                    
+INFO:root:
+                    E: 0, B: 250, Total: 8.8756, RMSE: 5.3550, MMD: 35.2059
+                    
+INFO:root:
+                    E: 0, B: 251, Total: 8.6155, RMSE: 5.0888, MMD: 35.2677
+                    
+INFO:root:
+                    E: 0, B: 252, Total: 8.8676, RMSE: 5.3347, MMD: 35.3293
+                    
+INFO:root:
+                    E: 0, B: 253, Total: 8.7171, RMSE: 5.1777, MMD: 35.3934
+                    
+INFO:root:
+                    E: 0, B: 254, Total: 8.8066, RMSE: 5.2617, MMD: 35.4492
+                    
+INFO:root:
+                    E: 0, B: 255, Total: 8.9270, RMSE: 5.3759, MMD: 35.5108
+                    
+INFO:root:
+                    E: 0, B: 256, Total: 8.8036, RMSE: 5.2463, MMD: 35.5735
+                    
+INFO:root:
+                    E: 0, B: 257, Total: 8.5774, RMSE: 5.0141, MMD: 35.6324
+                    
+INFO:root:
+                    E: 0, B: 258, Total: 9.1255, RMSE: 5.5564, MMD: 35.6918
+                    
+INFO:root:
+                    E: 0, B: 259, Total: 8.6915, RMSE: 5.1165, MMD: 35.7501
+                    
+INFO:root:
+                    E: 0, B: 260, Total: 8.7402, RMSE: 5.1593, MMD: 35.8094
+                    
+INFO:root:
+                    E: 0, B: 261, Total: 9.0840, RMSE: 5.4969, MMD: 35.8711
+                    
+INFO:root:
+                    E: 0, B: 262, Total: 8.9126, RMSE: 5.3197, MMD: 35.9292
+                    
+INFO:root:
+                    E: 0, B: 263, Total: 8.6664, RMSE: 5.0679, MMD: 35.9849
+                    
+INFO:root:
+                    E: 0, B: 264, Total: 8.8524, RMSE: 5.2479, MMD: 36.0440
+                    
+INFO:root:
+                    E: 0, B: 265, Total: 8.9872, RMSE: 5.3773, MMD: 36.0997
+                    
+INFO:root:
+                    E: 0, B: 266, Total: 8.6858, RMSE: 5.0703, MMD: 36.1544
+                    
+INFO:root:
+                    E: 0, B: 267, Total: 8.8276, RMSE: 5.2067, MMD: 36.2092
+                    
+INFO:root:
+                    E: 0, B: 268, Total: 8.9442, RMSE: 5.3174, MMD: 36.2680
+                    
+INFO:root:
+                    E: 0, B: 269, Total: 8.6477, RMSE: 5.0156, MMD: 36.3209
+                    
+INFO:root:
+                    E: 0, B: 270, Total: 8.9604, RMSE: 5.3232, MMD: 36.3716
+                    
+INFO:root:
+                    E: 0, B: 271, Total: 8.9977, RMSE: 5.3550, MMD: 36.4270
+                    
+INFO:root:
+                    E: 0, B: 272, Total: 8.7369, RMSE: 5.0887, MMD: 36.4819
+                    
+INFO:root:
+                    E: 0, B: 273, Total: 8.9882, RMSE: 5.3346, MMD: 36.5361
+                    
+INFO:root:
+                    E: 0, B: 274, Total: 8.8368, RMSE: 5.1777, MMD: 36.5912
+                    
+INFO:root:
+                    E: 0, B: 275, Total: 8.9260, RMSE: 5.2616, MMD: 36.6434
+                    
+INFO:root:
+                    E: 0, B: 276, Total: 9.0455, RMSE: 5.3759, MMD: 36.6960
+                    
+INFO:root:
+                    E: 0, B: 277, Total: 8.9210, RMSE: 5.2462, MMD: 36.7473
+                    
+INFO:root:
+                    E: 0, B: 278, Total: 8.6938, RMSE: 5.0141, MMD: 36.7966
+                    
+INFO:root:
+                    E: 0, B: 279, Total: 9.2414, RMSE: 5.5563, MMD: 36.8506
+                    
+INFO:root:
+                    E: 0, B: 280, Total: 8.8065, RMSE: 5.1164, MMD: 36.9007
+                    
+INFO:root:
+                    E: 0, B: 281, Total: 8.8545, RMSE: 5.1593, MMD: 36.9524
+                    
+INFO:root:
+                    E: 0, B: 282, Total: 9.1970, RMSE: 5.4968, MMD: 37.0017
+                    
+INFO:root:
+                    E: 0, B: 283, Total: 9.0251, RMSE: 5.3197, MMD: 37.0541
+                    
+INFO:root:
+                    E: 0, B: 284, Total: 8.7781, RMSE: 5.0679, MMD: 37.1015
+                    
+INFO:root:
+                    E: 0, B: 285, Total: 8.9633, RMSE: 5.2479, MMD: 37.1533
+                    
+INFO:root:
+                    E: 0, B: 286, Total: 9.0976, RMSE: 5.3772, MMD: 37.2038
+                    
+INFO:root:
+                    E: 0, B: 287, Total: 8.7957, RMSE: 5.0703, MMD: 37.2535
+                    
+INFO:root:
+                    E: 0, B: 288, Total: 8.9370, RMSE: 5.2067, MMD: 37.3031
+                    
+INFO:root:
+                    E: 0, B: 289, Total: 9.0525, RMSE: 5.3174, MMD: 37.3514
+                    
+INFO:root:
+                    E: 0, B: 290, Total: 8.7555, RMSE: 5.0157, MMD: 37.3988
+                    
+INFO:root:
+                    E: 0, B: 291, Total: 9.0678, RMSE: 5.3232, MMD: 37.4460
+                    
+INFO:root:
+                    E: 0, B: 292, Total: 9.1042, RMSE: 5.3549, MMD: 37.4925
+                    
+INFO:root:
+                    E: 0, B: 293, Total: 8.8425, RMSE: 5.0887, MMD: 37.5384
+                    
+INFO:root:
+                    E: 0, B: 294, Total: 9.0931, RMSE: 5.3346, MMD: 37.5849
+                    
+INFO:root:
+                    E: 0, B: 295, Total: 8.9407, RMSE: 5.1777, MMD: 37.6304
+                    
+INFO:root:
+                    E: 0, B: 296, Total: 9.0292, RMSE: 5.2616, MMD: 37.6756
+                    
+INFO:root:
+                    E: 0, B: 297, Total: 9.1481, RMSE: 5.3759, MMD: 37.7221
+                    
+INFO:root:
+                    E: 0, B: 298, Total: 9.0230, RMSE: 5.2462, MMD: 37.7681
+                    
+INFO:root:
+                    E: 0, B: 299, Total: 8.7956, RMSE: 5.0141, MMD: 37.8145
+                    
+INFO:root:
+                    E: 0, B: 300, Total: 9.3423, RMSE: 5.5563, MMD: 37.8596
+                    
+INFO:root:
+                    E: 0, B: 301, Total: 8.9069, RMSE: 5.1164, MMD: 37.9049
+                    
+INFO:root:
+                    E: 0, B: 302, Total: 8.9543, RMSE: 5.1593, MMD: 37.9507
+                    
+INFO:root:
+                    E: 0, B: 303, Total: 9.2964, RMSE: 5.4968, MMD: 37.9961
+                    
+INFO:root:
+                    E: 0, B: 304, Total: 9.1237, RMSE: 5.3197, MMD: 38.0401
+                    
+INFO:root:
+                    E: 0, B: 305, Total: 8.8762, RMSE: 5.0679, MMD: 38.0827
+                    
+INFO:root:
+                    E: 0, B: 306, Total: 9.0607, RMSE: 5.2479, MMD: 38.1278
+                    
+INFO:root:
+                    E: 0, B: 307, Total: 9.1941, RMSE: 5.3772, MMD: 38.1689
+                    
+INFO:root:
+                    E: 0, B: 308, Total: 8.8914, RMSE: 5.0703, MMD: 38.2108
+                    
+INFO:root:
+                    E: 0, B: 309, Total: 9.0321, RMSE: 5.2067, MMD: 38.2541
+                    
+INFO:root:
+                    E: 0, B: 310, Total: 9.1470, RMSE: 5.3174, MMD: 38.2958
+                    
+INFO:root:
+                    E: 0, B: 311, Total: 8.8493, RMSE: 5.0157, MMD: 38.3361
+                    
+INFO:root:
+                    E: 0, B: 312, Total: 9.1609, RMSE: 5.3232, MMD: 38.3774
+                    
+INFO:root:
+                    E: 0, B: 313, Total: 9.1971, RMSE: 5.3549, MMD: 38.4218
+                    
+INFO:root:
+                    E: 0, B: 314, Total: 8.9348, RMSE: 5.0886, MMD: 38.4614
+                    
+INFO:root:
+                    E: 0, B: 315, Total: 9.1847, RMSE: 5.3346, MMD: 38.5016
+                    
+INFO:root:
+                    E: 0, B: 316, Total: 9.0320, RMSE: 5.1777, MMD: 38.5435
+                    
+INFO:root:
+                    E: 0, B: 317, Total: 9.1199, RMSE: 5.2616, MMD: 38.5828
+                    
+INFO:root:
+                    E: 0, B: 318, Total: 9.2380, RMSE: 5.3758, MMD: 38.6216
+                    
+INFO:root:
+                    E: 0, B: 319, Total: 9.1124, RMSE: 5.2462, MMD: 38.6623
+                    
+INFO:root:
+                    E: 0, B: 320, Total: 8.8843, RMSE: 5.0141, MMD: 38.7017
+                    
+INFO:root:
+                    E: 0, B: 321, Total: 9.4304, RMSE: 5.5563, MMD: 38.7410
+                    
+INFO:root:
+                    E: 0, B: 322, Total: 8.9945, RMSE: 5.1164, MMD: 38.7806
+                    
+INFO:root:
+                    E: 0, B: 323, Total: 9.0410, RMSE: 5.1592, MMD: 38.8181
+                    
+INFO:root:
+                    E: 0, B: 324, Total: 9.3823, RMSE: 5.4968, MMD: 38.8547
+                    
+INFO:root:
+                    E: 0, B: 325, Total: 9.2089, RMSE: 5.3196, MMD: 38.8930
+                    
+INFO:root:
+                    E: 0, B: 326, Total: 8.9608, RMSE: 5.0679, MMD: 38.9296
+                    
+INFO:root:
+                    E: 0, B: 327, Total: 9.1448, RMSE: 5.2479, MMD: 38.9687
+                    
+INFO:root:
+                    E: 0, B: 328, Total: 9.2778, RMSE: 5.3772, MMD: 39.0059
+                    
+INFO:root:
+                    E: 0, B: 329, Total: 8.9747, RMSE: 5.0703, MMD: 39.0438
+                    
+INFO:root:
+                    E: 0, B: 330, Total: 9.1146, RMSE: 5.2067, MMD: 39.0793
+                    
+INFO:root:
+                    E: 0, B: 331, Total: 9.2289, RMSE: 5.3174, MMD: 39.1156
+                    
+INFO:root:
+                    E: 0, B: 332, Total: 8.9309, RMSE: 5.0156, MMD: 39.1527
+                    
+INFO:root:
+                    E: 0, B: 333, Total: 9.2421, RMSE: 5.3232, MMD: 39.1889
+                    
+INFO:root:
+                    E: 0, B: 334, Total: 9.2775, RMSE: 5.3549, MMD: 39.2256
+                    
+INFO:root:
+                    E: 0, B: 335, Total: 9.0149, RMSE: 5.0886, MMD: 39.2622
+                    
+INFO:root:
+                    E: 0, B: 336, Total: 9.2644, RMSE: 5.3346, MMD: 39.2981
+                    
+INFO:root:
+                    E: 0, B: 337, Total: 9.1109, RMSE: 5.1777, MMD: 39.3324
+                    
+INFO:root:
+                    E: 0, B: 338, Total: 9.1983, RMSE: 5.2616, MMD: 39.3678
+                    
+INFO:root:
+                    E: 0, B: 339, Total: 9.3160, RMSE: 5.3758, MMD: 39.4021
+                    
+INFO:root:
+                    E: 0, B: 340, Total: 9.1899, RMSE: 5.2462, MMD: 39.4375
+                    
+INFO:root:
+                    E: 0, B: 341, Total: 8.9614, RMSE: 5.0141, MMD: 39.4734
+                    
+INFO:root:
+                    E: 0, B: 342, Total: 9.5069, RMSE: 5.5562, MMD: 39.5069
+                    
+INFO:root:
+                    E: 0, B: 343, Total: 9.0704, RMSE: 5.1164, MMD: 39.5404
+                    
+INFO:root:
+                    E: 0, B: 344, Total: 9.1166, RMSE: 5.1592, MMD: 39.5735
+                    
+INFO:root:
+                    E: 0, B: 345, Total: 9.4575, RMSE: 5.4968, MMD: 39.6070
+                    
+INFO:root:
+                    E: 0, B: 346, Total: 9.2836, RMSE: 5.3196, MMD: 39.6395
+                    
+INFO:root:
+                    E: 0, B: 347, Total: 9.0349, RMSE: 5.0678, MMD: 39.6712
+                    
+INFO:root:
+                    E: 0, B: 348, Total: 9.2183, RMSE: 5.2479, MMD: 39.7040
+                    
+INFO:root:
+                    E: 0, B: 349, Total: 9.3508, RMSE: 5.3772, MMD: 39.7361
+                    
+INFO:root:
+                    E: 0, B: 350, Total: 9.0472, RMSE: 5.0703, MMD: 39.7684
+                    
+INFO:root:
+                    E: 0, B: 351, Total: 9.1868, RMSE: 5.2066, MMD: 39.8011
+                    
+INFO:root:
+                    E: 0, B: 352, Total: 9.3006, RMSE: 5.3174, MMD: 39.8325
+                    
+INFO:root:
+                    E: 0, B: 353, Total: 9.0020, RMSE: 5.0156, MMD: 39.8640
+                    
+INFO:root:
+                    E: 0, B: 354, Total: 9.3127, RMSE: 5.3232, MMD: 39.8954
+                    
+INFO:root:
+                    E: 0, B: 355, Total: 9.3478, RMSE: 5.3549, MMD: 39.9283
+                    
+INFO:root:
+                    E: 0, B: 356, Total: 9.0845, RMSE: 5.0886, MMD: 39.9583
+                    
+INFO:root:
+                    E: 0, B: 357, Total: 9.3334, RMSE: 5.3346, MMD: 39.9884
+                    
+INFO:root:
+                    E: 0, B: 358, Total: 9.1797, RMSE: 5.1777, MMD: 40.0203
+                    
+INFO:root:
+                    E: 0, B: 359, Total: 9.2666, RMSE: 5.2616, MMD: 40.0507
+                    
+INFO:root:
+                    E: 0, B: 360, Total: 9.3838, RMSE: 5.3758, MMD: 40.0804
+                    
+INFO:root:
+                    E: 0, B: 361, Total: 9.2574, RMSE: 5.2462, MMD: 40.1124
+                    
+INFO:root:
+                    E: 0, B: 362, Total: 9.0284, RMSE: 5.0141, MMD: 40.1431
+                    
+INFO:root:
+                    E: 0, B: 363, Total: 9.5734, RMSE: 5.5562, MMD: 40.1721
+                    
+INFO:root:
+                    E: 0, B: 364, Total: 9.1366, RMSE: 5.1164, MMD: 40.2024
+                    
+INFO:root:
+                    E: 0, B: 365, Total: 9.1824, RMSE: 5.1592, MMD: 40.2318
+                    
+INFO:root:
+                    E: 0, B: 366, Total: 9.5229, RMSE: 5.4968, MMD: 40.2609
+                    
+INFO:root:
+                    E: 0, B: 367, Total: 9.3486, RMSE: 5.3196, MMD: 40.2899
+                    
+INFO:root:
+                    E: 0, B: 368, Total: 9.0996, RMSE: 5.0678, MMD: 40.3186
+                    
+INFO:root:
+                    E: 0, B: 369, Total: 9.2827, RMSE: 5.2479, MMD: 40.3481
+                    
+INFO:root:
+                    E: 0, B: 370, Total: 9.4148, RMSE: 5.3772, MMD: 40.3765
+                    
+INFO:root:
+                    E: 0, B: 371, Total: 9.1107, RMSE: 5.0703, MMD: 40.4041
+                    
+INFO:root:
+                    E: 0, B: 372, Total: 9.2498, RMSE: 5.2066, MMD: 40.4314
+                    
+INFO:root:
+                    E: 0, B: 373, Total: 9.3634, RMSE: 5.3174, MMD: 40.4601
+                    
+INFO:root:
+                    E: 0, B: 374, Total: 9.0644, RMSE: 5.0156, MMD: 40.4882
+                    
+INFO:root:
+                    E: 0, B: 375, Total: 9.3746, RMSE: 5.3231, MMD: 40.5143
+                    
+INFO:root:
+                    E: 0, B: 376, Total: 9.4090, RMSE: 5.3549, MMD: 40.5406
+                    
+INFO:root:
+                    E: 0, B: 377, Total: 9.1454, RMSE: 5.0886, MMD: 40.5673
+                    
+INFO:root:
+                    E: 0, B: 378, Total: 9.3940, RMSE: 5.3345, MMD: 40.5942
+                    
+INFO:root:
+                    E: 0, B: 379, Total: 9.2397, RMSE: 5.1776, MMD: 40.6204
+                    
+INFO:root:
+                    E: 0, B: 380, Total: 9.3262, RMSE: 5.2615, MMD: 40.6463
+                    
+INFO:root:
+                    E: 0, B: 381, Total: 9.4430, RMSE: 5.3758, MMD: 40.6719
+                    
+INFO:root:
+                    E: 0, B: 382, Total: 9.3160, RMSE: 5.2462, MMD: 40.6980
+                    
+INFO:root:
+                    E: 0, B: 383, Total: 9.0864, RMSE: 5.0141, MMD: 40.7232
+                    
+INFO:root:
+                    E: 0, B: 384, Total: 9.6311, RMSE: 5.5562, MMD: 40.7489
+                    
+INFO:root:
+                    E: 0, B: 385, Total: 9.1940, RMSE: 5.1164, MMD: 40.7763
+                    
+INFO:root:
+                    E: 0, B: 386, Total: 9.2393, RMSE: 5.1592, MMD: 40.8014
+                    
+INFO:root:
+                    E: 0, B: 387, Total: 9.5794, RMSE: 5.4968, MMD: 40.8258
+                    
+INFO:root:
+                    E: 0, B: 388, Total: 9.4049, RMSE: 5.3196, MMD: 40.8527
+                    
+INFO:root:
+                    E: 0, B: 389, Total: 9.1554, RMSE: 5.0677, MMD: 40.8770
+                    
+INFO:root:
+                    E: 0, B: 390, Total: 9.3382, RMSE: 5.2479, MMD: 40.9036
+                    
+INFO:root:
+                    E: 0, B: 391, Total: 9.4699, RMSE: 5.3771, MMD: 40.9277
+                    
+INFO:root:
+                    E: 0, B: 392, Total: 9.1655, RMSE: 5.0703, MMD: 40.9517
+                    
+INFO:root:
+                    E: 0, B: 393, Total: 9.3042, RMSE: 5.2066, MMD: 40.9756
+                    
+INFO:root:
+                    E: 0, B: 394, Total: 9.4174, RMSE: 5.3174, MMD: 41.0005
+                    
+INFO:root:
+                    E: 0, B: 395, Total: 9.1181, RMSE: 5.0156, MMD: 41.0252
+                    
+INFO:root:
+                    E: 0, B: 396, Total: 9.4278, RMSE: 5.3231, MMD: 41.0469
+                    
+INFO:root:
+                    E: 0, B: 397, Total: 9.4620, RMSE: 5.3549, MMD: 41.0705
+                    
+INFO:root:
+                    E: 0, B: 398, Total: 9.1979, RMSE: 5.0886, MMD: 41.0930
+                    
+INFO:root:
+                    E: 0, B: 399, Total: 9.4461, RMSE: 5.3345, MMD: 41.1154
+                    
+INFO:root:
+                    E: 0, B: 400, Total: 9.2916, RMSE: 5.1776, MMD: 41.1395
+                    
+INFO:root:
+                    E: 0, B: 401, Total: 9.3776, RMSE: 5.2615, MMD: 41.1606
+                    
+INFO:root:
+                    E: 0, B: 402, Total: 9.4941, RMSE: 5.3758, MMD: 41.1831
+                    
+INFO:root:
+                    E: 0, B: 403, Total: 9.3667, RMSE: 5.2461, MMD: 41.2060
+                    
+INFO:root:
+                    E: 0, B: 404, Total: 9.1369, RMSE: 5.0141, MMD: 41.2286
+                    
+INFO:root:
+                    E: 0, B: 405, Total: 9.6813, RMSE: 5.5562, MMD: 41.2511
+                    
+INFO:root:
+                    E: 0, B: 406, Total: 9.2437, RMSE: 5.1164, MMD: 41.2726
+                    
+INFO:root:
+                    E: 0, B: 407, Total: 9.2886, RMSE: 5.1592, MMD: 41.2941
+                    
+INFO:root:
+                    E: 0, B: 408, Total: 9.6283, RMSE: 5.4968, MMD: 41.3151
+                    
+INFO:root:
+                    E: 0, B: 409, Total: 9.4532, RMSE: 5.3196, MMD: 41.3363
+                    
+INFO:root:
+                    E: 0, B: 410, Total: 9.2035, RMSE: 5.0677, MMD: 41.3578
+                    
+INFO:root:
+                    E: 0, B: 411, Total: 9.3859, RMSE: 5.2479, MMD: 41.3798
+                    
+INFO:root:
+                    E: 0, B: 412, Total: 9.5173, RMSE: 5.3771, MMD: 41.4016
+                    
+INFO:root:
+                    E: 0, B: 413, Total: 9.2125, RMSE: 5.0703, MMD: 41.4225
+                    
+INFO:root:
+                    E: 0, B: 414, Total: 9.3511, RMSE: 5.2066, MMD: 41.4445
+                    
+INFO:root:
+                    E: 0, B: 415, Total: 9.4640, RMSE: 5.3174, MMD: 41.4660
+                    
+INFO:root:
+                    E: 0, B: 416, Total: 9.1641, RMSE: 5.0155, MMD: 41.4857
+                    
+INFO:root:
+                    E: 0, B: 417, Total: 9.4736, RMSE: 5.3231, MMD: 41.5052
+                    
+INFO:root:
+                    E: 0, B: 418, Total: 9.5075, RMSE: 5.3549, MMD: 41.5255
+                    
+INFO:root:
+                    E: 0, B: 419, Total: 9.2432, RMSE: 5.0886, MMD: 41.5461
+                    
+INFO:root:
+                    E: 0, B: 420, Total: 9.4912, RMSE: 5.3345, MMD: 41.5672
+                    
+INFO:root:
+                    E: 0, B: 421, Total: 9.3364, RMSE: 5.1776, MMD: 41.5877
+                    
+INFO:root:
+                    E: 0, B: 422, Total: 9.4223, RMSE: 5.2615, MMD: 41.6075
+                    
+INFO:root:
+                    E: 0, B: 423, Total: 9.5385, RMSE: 5.3758, MMD: 41.6270
+                    
+INFO:root:
+                    E: 0, B: 424, Total: 9.4108, RMSE: 5.2461, MMD: 41.6465
+                    
+INFO:root:
+                    E: 0, B: 425, Total: 9.1806, RMSE: 5.0140, MMD: 41.6656
+                    
+INFO:root:
+                    E: 0, B: 426, Total: 9.7247, RMSE: 5.5562, MMD: 41.6855
+                    
+INFO:root:
+                    E: 0, B: 427, Total: 9.2869, RMSE: 5.1164, MMD: 41.7049
+                    
+INFO:root:
+                    E: 0, B: 428, Total: 9.3314, RMSE: 5.1592, MMD: 41.7223
+                    
+INFO:root:
+                    E: 0, B: 429, Total: 9.6709, RMSE: 5.4968, MMD: 41.7417
+                    
+INFO:root:
+                    E: 0, B: 430, Total: 9.4957, RMSE: 5.3196, MMD: 41.7615
+                    
+INFO:root:
+                    E: 0, B: 431, Total: 9.2456, RMSE: 5.0677, MMD: 41.7796
+                    
+INFO:root:
+                    E: 0, B: 432, Total: 9.4277, RMSE: 5.2479, MMD: 41.7982
+                    
+INFO:root:
+                    E: 0, B: 433, Total: 9.5588, RMSE: 5.3771, MMD: 41.8167
+                    
+INFO:root:
+                    E: 0, B: 434, Total: 9.2537, RMSE: 5.0703, MMD: 41.8344
+                    
+INFO:root:
+                    E: 0, B: 435, Total: 9.3919, RMSE: 5.2066, MMD: 41.8524
+                    
+INFO:root:
+                    E: 0, B: 436, Total: 9.5044, RMSE: 5.3174, MMD: 41.8698
+                    
+INFO:root:
+                    E: 0, B: 437, Total: 9.2042, RMSE: 5.0155, MMD: 41.8869
+                    
+INFO:root:
+                    E: 0, B: 438, Total: 9.5135, RMSE: 5.3231, MMD: 41.9041
+                    
+INFO:root:
+                    E: 0, B: 439, Total: 9.5470, RMSE: 5.3549, MMD: 41.9214
+                    
+INFO:root:
+                    E: 0, B: 440, Total: 9.2824, RMSE: 5.0886, MMD: 41.9380
+                    
+INFO:root:
+                    E: 0, B: 441, Total: 9.5300, RMSE: 5.3345, MMD: 41.9552
+                    
+INFO:root:
+                    E: 0, B: 442, Total: 9.3749, RMSE: 5.1776, MMD: 41.9725
+                    
+INFO:root:
+                    E: 0, B: 443, Total: 9.4604, RMSE: 5.2615, MMD: 41.9886
+                    
+INFO:root:
+                    E: 0, B: 444, Total: 9.5764, RMSE: 5.3758, MMD: 42.0056
+                    
+INFO:root:
+                    E: 0, B: 445, Total: 9.4484, RMSE: 5.2461, MMD: 42.0230
+                    
+INFO:root:
+                    E: 0, B: 446, Total: 9.2179, RMSE: 5.0140, MMD: 42.0393
+                    
+INFO:root:
+                    E: 0, B: 447, Total: 9.7618, RMSE: 5.5562, MMD: 42.0564
+                    
+INFO:root:
+                    E: 0, B: 448, Total: 9.3236, RMSE: 5.1164, MMD: 42.0726
+                    
+INFO:root:
+                    E: 0, B: 449, Total: 9.3679, RMSE: 5.1592, MMD: 42.0877
+                    
+INFO:root:
+                    E: 0, B: 450, Total: 9.7072, RMSE: 5.4967, MMD: 42.1044
+                    
+INFO:root:
+                    E: 0, B: 451, Total: 9.5316, RMSE: 5.3196, MMD: 42.1203
+                    
+INFO:root:
+                    E: 0, B: 452, Total: 9.2812, RMSE: 5.0677, MMD: 42.1358
+                    
+INFO:root:
+                    E: 0, B: 453, Total: 9.4630, RMSE: 5.2479, MMD: 42.1513
+                    
+INFO:root:
+                    E: 0, B: 454, Total: 9.5938, RMSE: 5.3771, MMD: 42.1671
+                    
+INFO:root:
+                    E: 0, B: 455, Total: 9.2885, RMSE: 5.0703, MMD: 42.1820
+                    
+INFO:root:
+                    E: 0, B: 456, Total: 9.4264, RMSE: 5.2066, MMD: 42.1979
+                    
+INFO:root:
+                    E: 0, B: 457, Total: 9.5387, RMSE: 5.3174, MMD: 42.2134
+                    
+INFO:root:
+                    E: 0, B: 458, Total: 9.2384, RMSE: 5.0155, MMD: 42.2294
+                    
+INFO:root:
+                    E: 0, B: 459, Total: 9.5475, RMSE: 5.3231, MMD: 42.2439
+                    
+INFO:root:
+                    E: 0, B: 460, Total: 9.5808, RMSE: 5.3549, MMD: 42.2591
+                    
+INFO:root:
+                    E: 0, B: 461, Total: 9.3161, RMSE: 5.0886, MMD: 42.2744
+                    
+INFO:root:
+                    E: 0, B: 462, Total: 9.5634, RMSE: 5.3345, MMD: 42.2895
+                    
+INFO:root:
+                    E: 0, B: 463, Total: 9.4081, RMSE: 5.1776, MMD: 42.3044
+                    
+INFO:root:
+                    E: 0, B: 464, Total: 9.4934, RMSE: 5.2615, MMD: 42.3185
+                    
+INFO:root:
+                    E: 0, B: 465, Total: 9.6091, RMSE: 5.3758, MMD: 42.3334
+                    
+INFO:root:
+                    E: 0, B: 466, Total: 9.4809, RMSE: 5.2461, MMD: 42.3482
+                    
+INFO:root:
+                    E: 0, B: 467, Total: 9.2502, RMSE: 5.0140, MMD: 42.3620
+                    
+INFO:root:
+                    E: 0, B: 468, Total: 9.7938, RMSE: 5.5561, MMD: 42.3762
+                    
+INFO:root:
+                    E: 0, B: 469, Total: 9.3554, RMSE: 5.1164, MMD: 42.3906
+                    
+INFO:root:
+                    E: 0, B: 470, Total: 9.3997, RMSE: 5.1591, MMD: 42.4052
+                    
+INFO:root:
+                    E: 0, B: 471, Total: 9.7387, RMSE: 5.4967, MMD: 42.4193
+                    
+INFO:root:
+                    E: 0, B: 472, Total: 9.5629, RMSE: 5.3196, MMD: 42.4336
+                    
+INFO:root:
+                    E: 0, B: 473, Total: 9.3124, RMSE: 5.0676, MMD: 42.4475
+                    
+INFO:root:
+                    E: 0, B: 474, Total: 9.4941, RMSE: 5.2479, MMD: 42.4622
+                    
+INFO:root:
+                    E: 0, B: 475, Total: 9.6247, RMSE: 5.3771, MMD: 42.4759
+                    
+INFO:root:
+                    E: 0, B: 476, Total: 9.3192, RMSE: 5.0703, MMD: 42.4893
+                    
+INFO:root:
+                    E: 0, B: 477, Total: 9.4569, RMSE: 5.2066, MMD: 42.5028
+                    
+INFO:root:
+                    E: 0, B: 478, Total: 9.5690, RMSE: 5.3174, MMD: 42.5157
+                    
+INFO:root:
+                    E: 0, B: 479, Total: 9.2683, RMSE: 5.0155, MMD: 42.5283
+                    
+INFO:root:
+                    E: 0, B: 480, Total: 9.5772, RMSE: 5.3231, MMD: 42.5409
+                    
+INFO:root:
+                    E: 0, B: 481, Total: 9.6103, RMSE: 5.3549, MMD: 42.5539
+                    
+INFO:root:
+                    E: 0, B: 482, Total: 9.3454, RMSE: 5.0886, MMD: 42.5671
+                    
+INFO:root:
+                    E: 0, B: 483, Total: 9.5924, RMSE: 5.3345, MMD: 42.5795
+                    
+INFO:root:
+                    E: 0, B: 484, Total: 9.4369, RMSE: 5.1776, MMD: 42.5924
+                    
+INFO:root:
+                    E: 0, B: 485, Total: 9.5220, RMSE: 5.2615, MMD: 42.6046
+                    
+INFO:root:
+                    E: 0, B: 486, Total: 9.6375, RMSE: 5.3758, MMD: 42.6169
+                    
+INFO:root:
+                    E: 0, B: 487, Total: 9.5091, RMSE: 5.2461, MMD: 42.6296
+                    
+INFO:root:
+                    E: 0, B: 488, Total: 9.2782, RMSE: 5.0140, MMD: 42.6416
+                    
+INFO:root:
+                    E: 0, B: 489, Total: 9.8215, RMSE: 5.5561, MMD: 42.6540
+                    
+INFO:root:
+                    E: 0, B: 490, Total: 9.3830, RMSE: 5.1164, MMD: 42.6659
+                    
+INFO:root:
+                    E: 0, B: 491, Total: 9.4269, RMSE: 5.1591, MMD: 42.6778
+                    
+INFO:root:
+                    E: 0, B: 492, Total: 9.7658, RMSE: 5.4967, MMD: 42.6903
+                    
+INFO:root:
+                    E: 0, B: 493, Total: 9.5899, RMSE: 5.3196, MMD: 42.7030
+                    
+INFO:root:
+                    E: 0, B: 494, Total: 9.3391, RMSE: 5.0676, MMD: 42.7151
+                    
+INFO:root:
+                    E: 0, B: 495, Total: 9.5207, RMSE: 5.2479, MMD: 42.7278
+                    
+INFO:root:
+                    E: 0, B: 496, Total: 9.6511, RMSE: 5.3771, MMD: 42.7400
+                    
+INFO:root:
+                    E: 0, B: 497, Total: 9.3454, RMSE: 5.0703, MMD: 42.7515
+                    
+INFO:root:
+                    E: 0, B: 498, Total: 9.4829, RMSE: 5.2066, MMD: 42.7625
+                    
+INFO:root:
+                    E: 0, B: 499, Total: 9.5948, RMSE: 5.3174, MMD: 42.7739
+                    
+INFO:root:
+                    E: 0, B: 500, Total: 9.2941, RMSE: 5.0155, MMD: 42.7859
+                    
+INFO:root:
+                    E: 0, B: 501, Total: 9.6028, RMSE: 5.3231, MMD: 42.7970
+                    
+INFO:root:
+                    E: 0, B: 502, Total: 9.6357, RMSE: 5.3549, MMD: 42.8084
+                    
+INFO:root:
+                    E: 0, B: 503, Total: 9.3706, RMSE: 5.0886, MMD: 42.8196
+                    
+INFO:root:
+                    E: 0, B: 504, Total: 9.6176, RMSE: 5.3345, MMD: 42.8309
+                    
+INFO:root:
+                    E: 0, B: 505, Total: 9.4619, RMSE: 5.1776, MMD: 42.8421
+                    
+INFO:root:
+                    E: 0, B: 506, Total: 9.5468, RMSE: 5.2615, MMD: 42.8531
+                    
+INFO:root:
+                    E: 0, B: 507, Total: 9.6622, RMSE: 5.3758, MMD: 42.8641
+                    
+INFO:root:
+                    E: 0, B: 508, Total: 9.5336, RMSE: 5.2461, MMD: 42.8747
+                    
+INFO:root:
+                    E: 0, B: 509, Total: 9.3025, RMSE: 5.0140, MMD: 42.8851
+                    
+INFO:root:
+                    E: 0, B: 510, Total: 9.8457, RMSE: 5.5561, MMD: 42.8960
+                    
+INFO:root:
+                    E: 0, B: 511, Total: 9.4070, RMSE: 5.1164, MMD: 42.9063
+                    
+INFO:root:
+                    E: 0, B: 512, Total: 9.4508, RMSE: 5.1591, MMD: 42.9164
+                    
+INFO:root:
+                    E: 0, B: 513, Total: 9.7894, RMSE: 5.4967, MMD: 42.9272
+                    
+INFO:root:
+                    E: 0, B: 514, Total: 9.6134, RMSE: 5.3196, MMD: 42.9379
+                    
+INFO:root:
+                    E: 0, B: 515, Total: 9.3624, RMSE: 5.0676, MMD: 42.9479
+                    
+INFO:root:
+                    E: 0, B: 516, Total: 9.5437, RMSE: 5.2479, MMD: 42.9583
+                    
+INFO:root:
+                    E: 0, B: 517, Total: 9.6739, RMSE: 5.3771, MMD: 42.9681
+                    
+INFO:root:
+                    E: 0, B: 518, Total: 9.3681, RMSE: 5.0703, MMD: 42.9779
+                    
+INFO:root:
+                    E: 0, B: 519, Total: 9.5054, RMSE: 5.2066, MMD: 42.9875
+                    
+INFO:root:
+                    E: 0, B: 520, Total: 9.6171, RMSE: 5.3174, MMD: 42.9974
+                    
+INFO:root:
+                    E: 0, B: 521, Total: 9.3162, RMSE: 5.0155, MMD: 43.0077
+                    
+INFO:root:
+                    E: 0, B: 522, Total: 9.6249, RMSE: 5.3231, MMD: 43.0173
+                    
+INFO:root:
+                    E: 0, B: 523, Total: 9.6576, RMSE: 5.3549, MMD: 43.0271
+                    
+INFO:root:
+                    E: 0, B: 524, Total: 9.3923, RMSE: 5.0886, MMD: 43.0366
+                    
+INFO:root:
+                    E: 0, B: 525, Total: 9.6391, RMSE: 5.3344, MMD: 43.0462
+                    
+INFO:root:
+                    E: 0, B: 526, Total: 9.4832, RMSE: 5.1776, MMD: 43.0557
+                    
+INFO:root:
+                    E: 0, B: 527, Total: 9.5680, RMSE: 5.2615, MMD: 43.0646
+                    
+INFO:root:
+                    E: 0, B: 528, Total: 9.6832, RMSE: 5.3758, MMD: 43.0739
+                    
+INFO:root:
+                    E: 0, B: 529, Total: 9.5545, RMSE: 5.2461, MMD: 43.0835
+                    
+INFO:root:
+                    E: 0, B: 530, Total: 9.3232, RMSE: 5.0140, MMD: 43.0925
+                    
+INFO:root:
+                    E: 0, B: 531, Total: 9.8663, RMSE: 5.5561, MMD: 43.1023
+                    
+INFO:root:
+                    E: 0, B: 532, Total: 9.4276, RMSE: 5.1164, MMD: 43.1117
+                    
+INFO:root:
+                    E: 0, B: 533, Total: 9.4712, RMSE: 5.1591, MMD: 43.1207
+                    
+INFO:root:
+                    E: 0, B: 534, Total: 9.8097, RMSE: 5.4967, MMD: 43.1301
+                    
+INFO:root:
+                    E: 0, B: 535, Total: 9.6335, RMSE: 5.3196, MMD: 43.1388
+                    
+INFO:root:
+                    E: 0, B: 536, Total: 9.3823, RMSE: 5.0675, MMD: 43.1476
+                    
+INFO:root:
+                    E: 0, B: 537, Total: 9.5635, RMSE: 5.2479, MMD: 43.1563
+                    
+INFO:root:
+                    E: 0, B: 538, Total: 9.6936, RMSE: 5.3771, MMD: 43.1650
+                    
+INFO:root:
+                    E: 0, B: 539, Total: 9.3877, RMSE: 5.0703, MMD: 43.1739
+                    
+INFO:root:
+                    E: 1, B: 0, Total: 9.6524, RMSE: 5.3341, MMD: 43.1828
+                    
+INFO:root:
+                    E: 1, B: 1, Total: 9.4963, RMSE: 5.1773, MMD: 43.1908
+                    
+INFO:root:
+                    E: 1, B: 2, Total: 9.5813, RMSE: 5.2614, MMD: 43.1992
+                    
+INFO:root:
+                    E: 1, B: 3, Total: 9.6959, RMSE: 5.3751, MMD: 43.2076
+                    
+INFO:root:
+                    E: 1, B: 4, Total: 9.5672, RMSE: 5.2456, MMD: 43.2159
+                    
+INFO:root:
+                    E: 1, B: 5, Total: 9.3360, RMSE: 5.0136, MMD: 43.2243
+                    
+INFO:root:
+                    E: 1, B: 6, Total: 9.8806, RMSE: 5.5573, MMD: 43.2326
+                    
+INFO:root:
+                    E: 1, B: 7, Total: 9.4395, RMSE: 5.1154, MMD: 43.2414
+                    
+INFO:root:
+                    E: 1, B: 8, Total: 9.4847, RMSE: 5.1597, MMD: 43.2497
+                    
+INFO:root:
+                    E: 1, B: 9, Total: 9.8233, RMSE: 5.4975, MMD: 43.2581
+                    
+INFO:root:
+                    E: 1, B: 10, Total: 9.6463, RMSE: 5.3197, MMD: 43.2661
+                    
+INFO:root:
+                    E: 1, B: 11, Total: 9.3956, RMSE: 5.0682, MMD: 43.2741
+                    
+INFO:root:
+                    E: 1, B: 12, Total: 9.5762, RMSE: 5.2479, MMD: 43.2824
+                    
+INFO:root:
+                    E: 1, B: 13, Total: 9.7060, RMSE: 5.3770, MMD: 43.2900
+                    
+INFO:root:
+                    E: 1, B: 14, Total: 9.4000, RMSE: 5.0702, MMD: 43.2979
+                    
+INFO:root:
+                    E: 1, B: 15, Total: 9.5374, RMSE: 5.2068, MMD: 43.3056
+                    
+INFO:root:
+                    E: 1, B: 16, Total: 9.6490, RMSE: 5.3177, MMD: 43.3131
+                    
+INFO:root:
+                    E: 1, B: 17, Total: 9.3476, RMSE: 5.0155, MMD: 43.3208
+                    
+INFO:root:
+                    E: 1, B: 18, Total: 9.6560, RMSE: 5.3232, MMD: 43.3281
+                    
+INFO:root:
+                    E: 1, B: 19, Total: 9.6885, RMSE: 5.3549, MMD: 43.3360
+                    
+INFO:root:
+                    E: 1, B: 20, Total: 9.4231, RMSE: 5.0888, MMD: 43.3435
+                    
+INFO:root:
+                    E: 1, B: 21, Total: 9.6698, RMSE: 5.3347, MMD: 43.3508
+                    
+INFO:root:
+                    E: 1, B: 22, Total: 9.5137, RMSE: 5.1778, MMD: 43.3584
+                    
+INFO:root:
+                    E: 1, B: 23, Total: 9.5983, RMSE: 5.2618, MMD: 43.3658
+                    
+INFO:root:
+                    E: 1, B: 24, Total: 9.7136, RMSE: 5.3763, MMD: 43.3730
+                    
+INFO:root:
+                    E: 1, B: 25, Total: 9.5845, RMSE: 5.2464, MMD: 43.3802
+                    
+INFO:root:
+                    E: 1, B: 26, Total: 9.3528, RMSE: 5.0141, MMD: 43.3872
+                    
+INFO:root:
+                    E: 1, B: 27, Total: 9.8953, RMSE: 5.5558, MMD: 43.3945
+                    
+INFO:root:
+                    E: 1, B: 28, Total: 9.4571, RMSE: 5.1170, MMD: 43.4019
+                    
+INFO:root:
+                    E: 1, B: 29, Total: 9.4999, RMSE: 5.1590, MMD: 43.4090
+                    
+INFO:root:
+                    E: 1, B: 30, Total: 9.8382, RMSE: 5.4966, MMD: 43.4163
+                    
+INFO:root:
+                    E: 1, B: 31, Total: 9.6619, RMSE: 5.3196, MMD: 43.4231
+                    
+INFO:root:
+                    E: 1, B: 32, Total: 9.4102, RMSE: 5.0672, MMD: 43.4299
+                    
+INFO:root:
+                    E: 1, B: 33, Total: 9.5916, RMSE: 5.2479, MMD: 43.4369
+                    
+INFO:root:
+                    E: 1, B: 34, Total: 9.7213, RMSE: 5.3770, MMD: 43.4435
+                    
+INFO:root:
+                    E: 1, B: 35, Total: 9.4153, RMSE: 5.0703, MMD: 43.4504
+                    
+INFO:root:
+                    E: 1, B: 36, Total: 9.5523, RMSE: 5.2066, MMD: 43.4570
+                    
+INFO:root:
+                    E: 1, B: 37, Total: 9.6637, RMSE: 5.3174, MMD: 43.4637
+                    
+INFO:root:
+                    E: 1, B: 38, Total: 9.3623, RMSE: 5.0153, MMD: 43.4704
+                    
+INFO:root:
+                    E: 1, B: 39, Total: 9.6709, RMSE: 5.3232, MMD: 43.4770
+                    
+INFO:root:
+                    E: 1, B: 40, Total: 9.7033, RMSE: 5.3550, MMD: 43.4837
+                    
+INFO:root:
+                    E: 1, B: 41, Total: 9.4378, RMSE: 5.0888, MMD: 43.4902
+                    
+INFO:root:
+                    E: 1, B: 42, Total: 9.6839, RMSE: 5.3343, MMD: 43.4963
+                    
+INFO:root:
+                    E: 1, B: 43, Total: 9.5279, RMSE: 5.1776, MMD: 43.5028
+                    
+INFO:root:
+                    E: 1, B: 44, Total: 9.6123, RMSE: 5.2614, MMD: 43.5092
+                    
+INFO:root:
+                    E: 1, B: 45, Total: 9.7273, RMSE: 5.3758, MMD: 43.5154
+                    
+INFO:root:
+                    E: 1, B: 46, Total: 9.5981, RMSE: 5.2460, MMD: 43.5217
+                    
+INFO:root:
+                    E: 1, B: 47, Total: 9.3665, RMSE: 5.0137, MMD: 43.5280
+                    
+INFO:root:
+                    E: 1, B: 48, Total: 9.9096, RMSE: 5.5561, MMD: 43.5344
+                    
+INFO:root:
+                    E: 1, B: 49, Total: 9.4703, RMSE: 5.1163, MMD: 43.5405
+                    
+INFO:root:
+                    E: 1, B: 50, Total: 9.5137, RMSE: 5.1591, MMD: 43.5462
+                    
+INFO:root:
+                    E: 1, B: 51, Total: 9.8518, RMSE: 5.4966, MMD: 43.5524
+                    
+INFO:root:
+                    E: 1, B: 52, Total: 9.6754, RMSE: 5.3196, MMD: 43.5586
+                    
+INFO:root:
+                    E: 1, B: 53, Total: 9.4237, RMSE: 5.0672, MMD: 43.5644
+                    
+INFO:root:
+                    E: 1, B: 54, Total: 9.6049, RMSE: 5.2479, MMD: 43.5703
+                    
+INFO:root:
+                    E: 1, B: 55, Total: 9.7347, RMSE: 5.3771, MMD: 43.5761
+                    
+INFO:root:
+                    E: 1, B: 56, Total: 9.4284, RMSE: 5.0703, MMD: 43.5817
+                    
+INFO:root:
+                    E: 1, B: 57, Total: 9.5654, RMSE: 5.2066, MMD: 43.5875
+                    
+INFO:root:
+                    E: 1, B: 58, Total: 9.6767, RMSE: 5.3174, MMD: 43.5930
+                    
+INFO:root:
+                    E: 1, B: 59, Total: 9.3753, RMSE: 5.0154, MMD: 43.5988
+                    
+INFO:root:
+                    E: 1, B: 60, Total: 9.6835, RMSE: 5.3231, MMD: 43.6044
+                    
+INFO:root:
+                    E: 1, B: 61, Total: 9.7159, RMSE: 5.3549, MMD: 43.6101
+                    
+INFO:root:
+                    E: 1, B: 62, Total: 9.4502, RMSE: 5.0887, MMD: 43.6155
+                    
+INFO:root:
+                    E: 1, B: 63, Total: 9.6965, RMSE: 5.3344, MMD: 43.6210
+                    
+INFO:root:
+                    E: 1, B: 64, Total: 9.5403, RMSE: 5.1776, MMD: 43.6266
+                    
+INFO:root:
+                    E: 1, B: 65, Total: 9.6247, RMSE: 5.2615, MMD: 43.6319
+                    
+INFO:root:
+                    E: 1, B: 66, Total: 9.7396, RMSE: 5.3759, MMD: 43.6373
+                    
+INFO:root:
+                    E: 1, B: 67, Total: 9.6104, RMSE: 5.2461, MMD: 43.6428
+                    
+INFO:root:
+                    E: 1, B: 68, Total: 9.3786, RMSE: 5.0138, MMD: 43.6480
+                    
+INFO:root:
+                    E: 1, B: 69, Total: 9.9214, RMSE: 5.5561, MMD: 43.6533
+                    
+INFO:root:
+                    E: 1, B: 70, Total: 9.4823, RMSE: 5.1165, MMD: 43.6586
+                    
+INFO:root:
+                    E: 1, B: 71, Total: 9.5254, RMSE: 5.1590, MMD: 43.6637
+                    
+INFO:root:
+                    E: 1, B: 72, Total: 9.8635, RMSE: 5.4966, MMD: 43.6691
+                    
+INFO:root:
+                    E: 1, B: 73, Total: 9.6870, RMSE: 5.3195, MMD: 43.6745
+                    
+INFO:root:
+                    E: 1, B: 74, Total: 9.4353, RMSE: 5.0674, MMD: 43.6794
+                    
+INFO:root:
+                    E: 1, B: 75, Total: 9.6163, RMSE: 5.2479, MMD: 43.6847
+                    
+INFO:root:
+                    E: 1, B: 76, Total: 9.7460, RMSE: 5.3770, MMD: 43.6896
+                    
+INFO:root:
+                    E: 1, B: 77, Total: 9.4397, RMSE: 5.0702, MMD: 43.6947
+                    
+INFO:root:
+                    E: 1, B: 78, Total: 9.5766, RMSE: 5.2066, MMD: 43.6998
+                    
+INFO:root:
+                    E: 1, B: 79, Total: 9.6878, RMSE: 5.3174, MMD: 43.7046
+                    
+INFO:root:
+                    E: 1, B: 80, Total: 9.3864, RMSE: 5.0154, MMD: 43.7095
+                    
+INFO:root:
+                    E: 1, B: 81, Total: 9.6945, RMSE: 5.3231, MMD: 43.7143
+                    
+INFO:root:
+                    E: 1, B: 82, Total: 9.7268, RMSE: 5.3549, MMD: 43.7193
+                    
+INFO:root:
+                    E: 1, B: 83, Total: 9.4611, RMSE: 5.0887, MMD: 43.7241
+                    
+INFO:root:
+                    E: 1, B: 84, Total: 9.7073, RMSE: 5.3344, MMD: 43.7290
+                    
+INFO:root:
+                    E: 1, B: 85, Total: 9.5510, RMSE: 5.1776, MMD: 43.7337
+                    
+INFO:root:
+                    E: 1, B: 86, Total: 9.6353, RMSE: 5.2615, MMD: 43.7385
+                    
+INFO:root:
+                    E: 1, B: 87, Total: 9.7501, RMSE: 5.3758, MMD: 43.7430
+                    
+INFO:root:
+                    E: 1, B: 88, Total: 9.6208, RMSE: 5.2461, MMD: 43.7475
+                    
+INFO:root:
+                    E: 1, B: 89, Total: 9.3890, RMSE: 5.0138, MMD: 43.7520
+                    
+INFO:root:
+                    E: 1, B: 90, Total: 9.9317, RMSE: 5.5561, MMD: 43.7566
+                    
+INFO:root:
+                    E: 1, B: 91, Total: 9.4925, RMSE: 5.1164, MMD: 43.7612
+                    
+INFO:root:
+                    E: 1, B: 92, Total: 9.5356, RMSE: 5.1591, MMD: 43.7656
+                    
+INFO:root:
+                    E: 1, B: 93, Total: 9.8736, RMSE: 5.4966, MMD: 43.7701
+                    
+INFO:root:
+                    E: 1, B: 94, Total: 9.6970, RMSE: 5.3196, MMD: 43.7744
+                    
+INFO:root:
+                    E: 1, B: 95, Total: 9.4452, RMSE: 5.0673, MMD: 43.7786
+                    
+INFO:root:
+                    E: 1, B: 96, Total: 9.6262, RMSE: 5.2479, MMD: 43.7832
+                    
+INFO:root:
+                    E: 1, B: 97, Total: 9.7558, RMSE: 5.3770, MMD: 43.7876
+                    
+INFO:root:
+                    E: 1, B: 98, Total: 9.4495, RMSE: 5.0702, MMD: 43.7921
+                    
+INFO:root:
+                    E: 1, B: 99, Total: 9.5862, RMSE: 5.2066, MMD: 43.7963
+                    
+INFO:root:
+                    E: 1, B: 100, Total: 9.6974, RMSE: 5.3174, MMD: 43.8006
+                    
+INFO:root:
+                    E: 1, B: 101, Total: 9.3959, RMSE: 5.0154, MMD: 43.8047
+                    
+INFO:root:
+                    E: 1, B: 102, Total: 9.7040, RMSE: 5.3231, MMD: 43.8090
+                    
+INFO:root:
+                    E: 1, B: 103, Total: 9.7362, RMSE: 5.3549, MMD: 43.8131
+                    
+INFO:root:
+                    E: 1, B: 104, Total: 9.4704, RMSE: 5.0887, MMD: 43.8173
+                    
+INFO:root:
+                    E: 1, B: 105, Total: 9.7165, RMSE: 5.3344, MMD: 43.8212
+                    
+INFO:root:
+                    E: 1, B: 106, Total: 9.5602, RMSE: 5.1776, MMD: 43.8253
+                    
+INFO:root:
+                    E: 1, B: 107, Total: 9.6444, RMSE: 5.2615, MMD: 43.8292
+                    
+INFO:root:
+                    E: 1, B: 108, Total: 9.7592, RMSE: 5.3758, MMD: 43.8332
+                    
+INFO:root:
+                    E: 1, B: 109, Total: 9.6298, RMSE: 5.2461, MMD: 43.8371
+                    
+INFO:root:
+                    E: 1, B: 110, Total: 9.3980, RMSE: 5.0139, MMD: 43.8411
+                    
+INFO:root:
+                    E: 1, B: 111, Total: 9.9406, RMSE: 5.5561, MMD: 43.8450
+                    
+INFO:root:
+                    E: 1, B: 112, Total: 9.5013, RMSE: 5.1164, MMD: 43.8490
+                    
+INFO:root:
+                    E: 1, B: 113, Total: 9.5444, RMSE: 5.1591, MMD: 43.8529
+                    
+INFO:root:
+                    E: 1, B: 114, Total: 9.8823, RMSE: 5.4966, MMD: 43.8568
+                    
+INFO:root:
+                    E: 1, B: 115, Total: 9.7056, RMSE: 5.3196, MMD: 43.8605
+                    
+INFO:root:
+                    E: 1, B: 116, Total: 9.4538, RMSE: 5.0674, MMD: 43.8643
+                    
+INFO:root:
+                    E: 1, B: 117, Total: 9.6347, RMSE: 5.2479, MMD: 43.8681
+                    
+INFO:root:
+                    E: 1, B: 118, Total: 9.7642, RMSE: 5.3770, MMD: 43.8717
+                    
+INFO:root:
+                    E: 1, B: 119, Total: 9.4578, RMSE: 5.0702, MMD: 43.8754
+                    
+INFO:root:
+                    E: 1, B: 120, Total: 9.5945, RMSE: 5.2066, MMD: 43.8792
+                    
+INFO:root:
+                    E: 1, B: 121, Total: 9.7057, RMSE: 5.3174, MMD: 43.8827
+                    
+INFO:root:
+                    E: 1, B: 122, Total: 9.4041, RMSE: 5.0154, MMD: 43.8864
+                    
+INFO:root:
+                    E: 1, B: 123, Total: 9.7121, RMSE: 5.3231, MMD: 43.8899
+                    
+INFO:root:
+                    E: 1, B: 124, Total: 9.7442, RMSE: 5.3549, MMD: 43.8935
+                    
+INFO:root:
+                    E: 1, B: 125, Total: 9.4784, RMSE: 5.0887, MMD: 43.8972
+                    
+INFO:root:
+                    E: 1, B: 126, Total: 9.7245, RMSE: 5.3344, MMD: 43.9008
+                    
+INFO:root:
+                    E: 1, B: 127, Total: 9.5681, RMSE: 5.1777, MMD: 43.9043
+                    
+INFO:root:
+                    E: 1, B: 128, Total: 9.6523, RMSE: 5.2615, MMD: 43.9077
+                    
+INFO:root:
+                    E: 1, B: 129, Total: 9.7669, RMSE: 5.3758, MMD: 43.9110
+                    
+INFO:root:
+                    E: 1, B: 130, Total: 9.6375, RMSE: 5.2461, MMD: 43.9144
+                    
+INFO:root:
+                    E: 1, B: 131, Total: 9.4057, RMSE: 5.0139, MMD: 43.9179
+                    
+INFO:root:
+                    E: 1, B: 132, Total: 9.9482, RMSE: 5.5561, MMD: 43.9212
+                    
+INFO:root:
+                    E: 1, B: 133, Total: 9.5089, RMSE: 5.1164, MMD: 43.9246
+                    
+INFO:root:
+                    E: 1, B: 134, Total: 9.5519, RMSE: 5.1591, MMD: 43.9278
+                    
+INFO:root:
+                    E: 1, B: 135, Total: 9.8897, RMSE: 5.4966, MMD: 43.9312
+                    
+INFO:root:
+                    E: 1, B: 136, Total: 9.7130, RMSE: 5.3196, MMD: 43.9345
+                    
+INFO:root:
+                    E: 1, B: 137, Total: 9.4611, RMSE: 5.0674, MMD: 43.9379
+                    
+INFO:root:
+                    E: 1, B: 138, Total: 9.6420, RMSE: 5.2479, MMD: 43.9412
+                    
+INFO:root:
+                    E: 1, B: 139, Total: 9.7715, RMSE: 5.3771, MMD: 43.9443
+                    
+INFO:root:
+                    E: 1, B: 140, Total: 9.4650, RMSE: 5.0702, MMD: 43.9475
+                    
+INFO:root:
+                    E: 1, B: 141, Total: 9.6017, RMSE: 5.2066, MMD: 43.9508
+                    
+INFO:root:
+                    E: 1, B: 142, Total: 9.7128, RMSE: 5.3174, MMD: 43.9539
+                    
+INFO:root:
+                    E: 1, B: 143, Total: 9.4111, RMSE: 5.0154, MMD: 43.9570
+                    
+INFO:root:
+                    E: 1, B: 144, Total: 9.7191, RMSE: 5.3231, MMD: 43.9600
+                    
+INFO:root:
+                    E: 1, B: 145, Total: 9.7512, RMSE: 5.3549, MMD: 43.9632
+                    
+INFO:root:
+                    E: 1, B: 146, Total: 9.4853, RMSE: 5.0887, MMD: 43.9662
+                    
+INFO:root:
+                    E: 1, B: 147, Total: 9.7314, RMSE: 5.3344, MMD: 43.9693
+                    
+INFO:root:
+                    E: 1, B: 148, Total: 9.5749, RMSE: 5.1777, MMD: 43.9724
+                    
+INFO:root:
+                    E: 1, B: 149, Total: 9.6590, RMSE: 5.2615, MMD: 43.9753
+                    
+INFO:root:
+                    E: 1, B: 150, Total: 9.7737, RMSE: 5.3759, MMD: 43.9782
+                    
+INFO:root:
+                    E: 1, B: 151, Total: 9.6442, RMSE: 5.2461, MMD: 43.9811
+                    
+INFO:root:
+                    E: 1, B: 152, Total: 9.4123, RMSE: 5.0139, MMD: 43.9840
+                    
+INFO:root:
+                    E: 1, B: 153, Total: 9.9548, RMSE: 5.5561, MMD: 43.9871
+                    
+INFO:root:
+                    E: 1, B: 154, Total: 9.5154, RMSE: 5.1164, MMD: 43.9900
+                    
+INFO:root:
+                    E: 1, B: 155, Total: 9.5584, RMSE: 5.1591, MMD: 43.9928
+                    
+INFO:root:
+                    E: 1, B: 156, Total: 9.8962, RMSE: 5.4966, MMD: 43.9956
+                    
+INFO:root:
+                    E: 1, B: 157, Total: 9.7194, RMSE: 5.3196, MMD: 43.9984
+                    
+INFO:root:
+                    E: 1, B: 158, Total: 9.4675, RMSE: 5.0673, MMD: 44.0011
+                    
+INFO:root:
+                    E: 1, B: 159, Total: 9.6483, RMSE: 5.2479, MMD: 44.0040
+                    
+INFO:root:
+                    E: 1, B: 160, Total: 9.7777, RMSE: 5.3770, MMD: 44.0067
+                    
+INFO:root:
+                    E: 1, B: 161, Total: 9.4712, RMSE: 5.0702, MMD: 44.0095
+                    
+INFO:root:
+                    E: 1, B: 162, Total: 9.6078, RMSE: 5.2066, MMD: 44.0122
+                    
+INFO:root:
+                    E: 1, B: 163, Total: 9.7189, RMSE: 5.3174, MMD: 44.0148
+                    
+INFO:root:
+                    E: 1, B: 164, Total: 9.4171, RMSE: 5.0154, MMD: 44.0175
+                    
+INFO:root:
+                    E: 1, B: 165, Total: 9.7252, RMSE: 5.3232, MMD: 44.0200
+                    
+INFO:root:
+                    E: 1, B: 166, Total: 9.7571, RMSE: 5.3549, MMD: 44.0227
+                    
+INFO:root:
+                    E: 1, B: 167, Total: 9.4913, RMSE: 5.0887, MMD: 44.0253
+                    
+INFO:root:
+                    E: 1, B: 168, Total: 9.7373, RMSE: 5.3345, MMD: 44.0277
+                    
+INFO:root:
+                    E: 1, B: 169, Total: 9.5808, RMSE: 5.1777, MMD: 44.0303
+                    
+INFO:root:
+                    E: 1, B: 170, Total: 9.6648, RMSE: 5.2615, MMD: 44.0327
+                    
+INFO:root:
+                    E: 1, B: 171, Total: 9.7794, RMSE: 5.3759, MMD: 44.0353
+                    
+INFO:root:
+                    E: 1, B: 172, Total: 9.6499, RMSE: 5.2461, MMD: 44.0379
+                    
+INFO:root:
+                    E: 1, B: 173, Total: 9.4180, RMSE: 5.0139, MMD: 44.0403
+                    
+INFO:root:
+                    E: 1, B: 174, Total: 9.9604, RMSE: 5.5561, MMD: 44.0429
+                    
+INFO:root:
+                    E: 1, B: 175, Total: 9.5209, RMSE: 5.1164, MMD: 44.0453
+                    
+INFO:root:
+                    E: 1, B: 176, Total: 9.5639, RMSE: 5.1592, MMD: 44.0477
+                    
+INFO:root:
+                    E: 1, B: 177, Total: 9.9016, RMSE: 5.4966, MMD: 44.0502
+                    
+INFO:root:
+                    E: 1, B: 178, Total: 9.7249, RMSE: 5.3196, MMD: 44.0527
+                    
+INFO:root:
+                    E: 1, B: 179, Total: 9.4728, RMSE: 5.0672, MMD: 44.0551
+                    
+INFO:root:
+                    E: 1, B: 180, Total: 9.6537, RMSE: 5.2480, MMD: 44.0575
+                    
+INFO:root:
+                    E: 1, B: 181, Total: 9.7831, RMSE: 5.3771, MMD: 44.0599
+                    
+INFO:root:
+                    E: 1, B: 182, Total: 9.4765, RMSE: 5.0702, MMD: 44.0623
+                    
+INFO:root:
+                    E: 1, B: 183, Total: 9.6131, RMSE: 5.2066, MMD: 44.0647
+                    
+INFO:root:
+                    E: 1, B: 184, Total: 9.7242, RMSE: 5.3175, MMD: 44.0670
+                    
+INFO:root:
+                    E: 1, B: 185, Total: 9.4223, RMSE: 5.0154, MMD: 44.0693
+                    
+INFO:root:
+                    E: 1, B: 186, Total: 9.7304, RMSE: 5.3232, MMD: 44.0715
+                    
+INFO:root:
+                    E: 1, B: 187, Total: 9.7623, RMSE: 5.3549, MMD: 44.0738
+                    
+INFO:root:
+                    E: 1, B: 188, Total: 9.4964, RMSE: 5.0888, MMD: 44.0761
+                    
+INFO:root:
+                    E: 1, B: 189, Total: 9.7424, RMSE: 5.3346, MMD: 44.0784
+                    
+INFO:root:
+                    E: 1, B: 190, Total: 9.5858, RMSE: 5.1778, MMD: 44.0806
+                    
+INFO:root:
+                    E: 1, B: 191, Total: 9.6699, RMSE: 5.2616, MMD: 44.0828
+                    
+INFO:root:
+                    E: 1, B: 192, Total: 9.7844, RMSE: 5.3759, MMD: 44.0849
+                    
+INFO:root:
+                    E: 1, B: 193, Total: 9.6549, RMSE: 5.2462, MMD: 44.0870
+                    
+INFO:root:
+                    E: 1, B: 194, Total: 9.4228, RMSE: 5.0139, MMD: 44.0892
+                    
+INFO:root:
+                    E: 1, B: 195, Total: 9.9652, RMSE: 5.5561, MMD: 44.0913
+                    
+INFO:root:
+                    E: 1, B: 196, Total: 9.5258, RMSE: 5.1164, MMD: 44.0934
+                    
+INFO:root:
+                    E: 1, B: 197, Total: 9.5687, RMSE: 5.1592, MMD: 44.0954
+                    
+INFO:root:
+                    E: 1, B: 198, Total: 9.9063, RMSE: 5.4966, MMD: 44.0976
+                    
+INFO:root:
+                    E: 1, B: 199, Total: 9.7296, RMSE: 5.3196, MMD: 44.0996
+                    
+INFO:root:
+                    E: 1, B: 200, Total: 9.4774, RMSE: 5.0672, MMD: 44.1017
+                    
+INFO:root:
+                    E: 1, B: 201, Total: 9.6583, RMSE: 5.2480, MMD: 44.1037
+                    
+INFO:root:
+                    E: 1, B: 202, Total: 9.7877, RMSE: 5.3771, MMD: 44.1057
+                    
+INFO:root:
+                    E: 1, B: 203, Total: 9.4810, RMSE: 5.0702, MMD: 44.1076
+                    
+INFO:root:
+                    E: 1, B: 204, Total: 9.6176, RMSE: 5.2066, MMD: 44.1096
+                    
+INFO:root:
+                    E: 1, B: 205, Total: 9.7286, RMSE: 5.3175, MMD: 44.1117
+                    
+INFO:root:
+                    E: 1, B: 206, Total: 9.4268, RMSE: 5.0154, MMD: 44.1136
+                    
+INFO:root:
+                    E: 1, B: 207, Total: 9.7347, RMSE: 5.3232, MMD: 44.1155
+                    
+INFO:root:
+                    E: 1, B: 208, Total: 9.7667, RMSE: 5.3549, MMD: 44.1174
+                    
+INFO:root:
+                    E: 1, B: 209, Total: 9.5007, RMSE: 5.0888, MMD: 44.1194
+                    
+INFO:root:
+                    E: 1, B: 210, Total: 9.7466, RMSE: 5.3345, MMD: 44.1212
+                    
+INFO:root:
+                    E: 1, B: 211, Total: 9.5900, RMSE: 5.1777, MMD: 44.1232
+                    
+INFO:root:
+                    E: 1, B: 212, Total: 9.6740, RMSE: 5.2615, MMD: 44.1250
+                    
+INFO:root:
+                    E: 1, B: 213, Total: 9.7886, RMSE: 5.3759, MMD: 44.1269
+                    
+INFO:root:
+                    E: 1, B: 214, Total: 9.6590, RMSE: 5.2461, MMD: 44.1288
+                    
+INFO:root:
+                    E: 1, B: 215, Total: 9.4269, RMSE: 5.0138, MMD: 44.1306
+                    
+INFO:root:
+                    E: 1, B: 216, Total: 9.9693, RMSE: 5.5561, MMD: 44.1324
+                    
+INFO:root:
+                    E: 1, B: 217, Total: 9.5299, RMSE: 5.1164, MMD: 44.1342
+                    
+INFO:root:
+                    E: 1, B: 218, Total: 9.5727, RMSE: 5.1591, MMD: 44.1360
+                    
+INFO:root:
+                    E: 1, B: 219, Total: 9.9103, RMSE: 5.4966, MMD: 44.1378
+                    
+INFO:root:
+                    E: 1, B: 220, Total: 9.7336, RMSE: 5.3196, MMD: 44.1396
+                    
+INFO:root:
+                    E: 1, B: 221, Total: 9.4814, RMSE: 5.0672, MMD: 44.1413
+                    
+INFO:root:
+                    E: 1, B: 222, Total: 9.6623, RMSE: 5.2479, MMD: 44.1431
+                    
+INFO:root:
+                    E: 1, B: 223, Total: 9.7916, RMSE: 5.3771, MMD: 44.1448
+                    
+INFO:root:
+                    E: 1, B: 224, Total: 9.4849, RMSE: 5.0702, MMD: 44.1467
+                    
+INFO:root:
+                    E: 1, B: 225, Total: 9.6215, RMSE: 5.2066, MMD: 44.1484
+                    
+INFO:root:
+                    E: 1, B: 226, Total: 9.7324, RMSE: 5.3174, MMD: 44.1500
+                    
+INFO:root:
+                    E: 1, B: 227, Total: 9.4305, RMSE: 5.0154, MMD: 44.1516
+                    
+INFO:root:
+                    E: 1, B: 228, Total: 9.7385, RMSE: 5.3232, MMD: 44.1532
+                    
+INFO:root:
+                    E: 1, B: 229, Total: 9.7704, RMSE: 5.3549, MMD: 44.1550
+                    
+INFO:root:
+                    E: 1, B: 230, Total: 9.5044, RMSE: 5.0887, MMD: 44.1566
+                    
+INFO:root:
+                    E: 1, B: 231, Total: 9.7503, RMSE: 5.3345, MMD: 44.1582
+                    
+INFO:root:
+                    E: 1, B: 232, Total: 9.5937, RMSE: 5.1777, MMD: 44.1599
+                    
+INFO:root:
+                    E: 1, B: 233, Total: 9.6777, RMSE: 5.2615, MMD: 44.1614
+                    
+INFO:root:
+                    E: 1, B: 234, Total: 9.7922, RMSE: 5.3759, MMD: 44.1629
+                    
+INFO:root:
+                    E: 1, B: 235, Total: 9.6626, RMSE: 5.2461, MMD: 44.1645
+                    
+INFO:root:
+                    E: 1, B: 236, Total: 9.4304, RMSE: 5.0138, MMD: 44.1661
+                    
+INFO:root:
+                    E: 1, B: 237, Total: 9.9728, RMSE: 5.5560, MMD: 44.1676
+                    
+INFO:root:
+                    E: 1, B: 238, Total: 9.5334, RMSE: 5.1165, MMD: 44.1692
+                    
+INFO:root:
+                    E: 1, B: 239, Total: 9.5762, RMSE: 5.1591, MMD: 44.1707
+                    
+INFO:root:
+                    E: 1, B: 240, Total: 9.9138, RMSE: 5.4965, MMD: 44.1722
+                    
+INFO:root:
+                    E: 1, B: 241, Total: 9.7370, RMSE: 5.3196, MMD: 44.1736
+                    
+INFO:root:
+                    E: 1, B: 242, Total: 9.4848, RMSE: 5.0672, MMD: 44.1751
+                    
+INFO:root:
+                    E: 1, B: 243, Total: 9.6656, RMSE: 5.2479, MMD: 44.1766
+                    
+INFO:root:
+                    E: 1, B: 244, Total: 9.7949, RMSE: 5.3771, MMD: 44.1780
+                    
+INFO:root:
+                    E: 1, B: 245, Total: 9.4882, RMSE: 5.0702, MMD: 44.1795
+                    
+INFO:root:
+                    E: 1, B: 246, Total: 9.6247, RMSE: 5.2066, MMD: 44.1809
+                    
+INFO:root:
+                    E: 1, B: 247, Total: 9.7357, RMSE: 5.3174, MMD: 44.1824
+                    
+INFO:root:
+                    E: 1, B: 248, Total: 9.4338, RMSE: 5.0154, MMD: 44.1837
+                    
+INFO:root:
+                    E: 1, B: 249, Total: 9.7417, RMSE: 5.3232, MMD: 44.1851
+                    
+INFO:root:
+                    E: 1, B: 250, Total: 9.7736, RMSE: 5.3549, MMD: 44.1866
+                    
+INFO:root:
+                    E: 1, B: 251, Total: 9.5075, RMSE: 5.0887, MMD: 44.1880
+                    
+INFO:root:
+                    E: 1, B: 252, Total: 9.7534, RMSE: 5.3344, MMD: 44.1894
+                    
+INFO:root:
+                    E: 1, B: 253, Total: 9.5968, RMSE: 5.1777, MMD: 44.1908
+                    
+INFO:root:
+                    E: 1, B: 254, Total: 9.6807, RMSE: 5.2615, MMD: 44.1921
+                    
+INFO:root:
+                    E: 1, B: 255, Total: 9.7952, RMSE: 5.3759, MMD: 44.1935
+                    
+INFO:root:
+                    E: 1, B: 256, Total: 9.6656, RMSE: 5.2461, MMD: 44.1949
+                    
+INFO:root:
+                    E: 1, B: 257, Total: 9.4334, RMSE: 5.0138, MMD: 44.1962
+                    
+INFO:root:
+                    E: 1, B: 258, Total: 9.9758, RMSE: 5.5560, MMD: 44.1975
+                    
+INFO:root:
+                    E: 1, B: 259, Total: 9.5363, RMSE: 5.1165, MMD: 44.1988
+                    
+INFO:root:
+                    E: 1, B: 260, Total: 9.5791, RMSE: 5.1591, MMD: 44.2001
+                    
+INFO:root:
+                    E: 1, B: 261, Total: 9.9167, RMSE: 5.4965, MMD: 44.2015
+                    
+INFO:root:
+                    E: 1, B: 262, Total: 9.7399, RMSE: 5.3196, MMD: 44.2028
+                    
+INFO:root:
+                    E: 1, B: 263, Total: 9.4876, RMSE: 5.0672, MMD: 44.2040
+                    
+INFO:root:
+                    E: 1, B: 264, Total: 9.6685, RMSE: 5.2479, MMD: 44.2052
+                    
+INFO:root:
+                    E: 1, B: 265, Total: 9.7977, RMSE: 5.3770, MMD: 44.2065
+                    
+INFO:root:
+                    E: 1, B: 266, Total: 9.4910, RMSE: 5.0702, MMD: 44.2077
+                    
+INFO:root:
+                    E: 1, B: 267, Total: 9.6275, RMSE: 5.2066, MMD: 44.2090
+                    
+INFO:root:
+                    E: 1, B: 268, Total: 9.7384, RMSE: 5.3174, MMD: 44.2103
+                    
+INFO:root:
+                    E: 1, B: 269, Total: 9.4365, RMSE: 5.0154, MMD: 44.2114
+                    
+INFO:root:
+                    E: 1, B: 270, Total: 9.7444, RMSE: 5.3231, MMD: 44.2126
+                    
+INFO:root:
+                    E: 1, B: 271, Total: 9.7763, RMSE: 5.3549, MMD: 44.2138
+                    
+INFO:root:
+                    E: 1, B: 272, Total: 9.5102, RMSE: 5.0887, MMD: 44.2150
+                    
+INFO:root:
+                    E: 1, B: 273, Total: 9.7560, RMSE: 5.3344, MMD: 44.2161
+                    
+INFO:root:
+                    E: 1, B: 274, Total: 9.5994, RMSE: 5.1777, MMD: 44.2173
+                    
+INFO:root:
+                    E: 1, B: 275, Total: 9.6834, RMSE: 5.2615, MMD: 44.2184
+                    
+INFO:root:
+                    E: 1, B: 276, Total: 9.7978, RMSE: 5.3759, MMD: 44.2196
+                    
+INFO:root:
+                    E: 1, B: 277, Total: 9.6682, RMSE: 5.2461, MMD: 44.2207
+                    
+INFO:root:
+                    E: 1, B: 278, Total: 9.4360, RMSE: 5.0138, MMD: 44.2218
+                    
+INFO:root:
+                    E: 1, B: 279, Total: 9.9783, RMSE: 5.5561, MMD: 44.2229
+                    
+INFO:root:
+                    E: 1, B: 280, Total: 9.5389, RMSE: 5.1165, MMD: 44.2240
+                    
+INFO:root:
+                    E: 1, B: 281, Total: 9.5816, RMSE: 5.1591, MMD: 44.2251
+                    
+INFO:root:
+                    E: 1, B: 282, Total: 9.9192, RMSE: 5.4965, MMD: 44.2262
+                    
+INFO:root:
+                    E: 1, B: 283, Total: 9.7423, RMSE: 5.3196, MMD: 44.2274
+                    
+INFO:root:
+                    E: 1, B: 284, Total: 9.4901, RMSE: 5.0672, MMD: 44.2284
+                    
+INFO:root:
+                    E: 1, B: 285, Total: 9.6709, RMSE: 5.2479, MMD: 44.2296
+                    
+INFO:root:
+                    E: 1, B: 286, Total: 9.8001, RMSE: 5.3770, MMD: 44.2306
+                    
+INFO:root:
+                    E: 1, B: 287, Total: 9.4934, RMSE: 5.0702, MMD: 44.2317
+                    
+INFO:root:
+                    E: 1, B: 288, Total: 9.6299, RMSE: 5.2066, MMD: 44.2328
+                    
+INFO:root:
+                    E: 1, B: 289, Total: 9.7408, RMSE: 5.3174, MMD: 44.2338
+                    
+INFO:root:
+                    E: 1, B: 290, Total: 9.4389, RMSE: 5.0154, MMD: 44.2348
+                    
+INFO:root:
+                    E: 1, B: 291, Total: 9.7467, RMSE: 5.3232, MMD: 44.2358
+                    
+INFO:root:
+                    E: 1, B: 292, Total: 9.7786, RMSE: 5.3549, MMD: 44.2368
+                    
+INFO:root:
+                    E: 1, B: 293, Total: 9.5125, RMSE: 5.0887, MMD: 44.2378
+                    
+INFO:root:
+                    E: 1, B: 294, Total: 9.7584, RMSE: 5.3345, MMD: 44.2388
+                    
+INFO:root:
+                    E: 1, B: 295, Total: 9.6017, RMSE: 5.1777, MMD: 44.2398
+                    
+INFO:root:
+                    E: 1, B: 296, Total: 9.6856, RMSE: 5.2615, MMD: 44.2407
+                    
+INFO:root:
+                    E: 1, B: 297, Total: 9.8000, RMSE: 5.3759, MMD: 44.2417
+                    
+INFO:root:
+                    E: 1, B: 298, Total: 9.6704, RMSE: 5.2461, MMD: 44.2426
+                    
+INFO:root:
+                    E: 1, B: 299, Total: 9.4382, RMSE: 5.0139, MMD: 44.2436
+                    
+INFO:root:
+                    E: 1, B: 300, Total: 9.9805, RMSE: 5.5561, MMD: 44.2445
+                    
+INFO:root:
+                    E: 1, B: 301, Total: 9.5410, RMSE: 5.1164, MMD: 44.2455
+                    
+INFO:root:
+                    E: 1, B: 302, Total: 9.5838, RMSE: 5.1591, MMD: 44.2464
+                    
+INFO:root:
+                    E: 1, B: 303, Total: 9.9213, RMSE: 5.4966, MMD: 44.2474
+                    
+INFO:root:
+                    E: 1, B: 304, Total: 9.7444, RMSE: 5.3196, MMD: 44.2484
+                    
+INFO:root:
+                    E: 1, B: 305, Total: 9.4922, RMSE: 5.0673, MMD: 44.2493
+                    
+INFO:root:
+                    E: 1, B: 306, Total: 9.6729, RMSE: 5.2479, MMD: 44.2502
+                    
+INFO:root:
+                    E: 1, B: 307, Total: 9.8021, RMSE: 5.3770, MMD: 44.2511
+                    
+INFO:root:
+                    E: 1, B: 308, Total: 9.4954, RMSE: 5.0702, MMD: 44.2520
+                    
+INFO:root:
+                    E: 1, B: 309, Total: 9.6319, RMSE: 5.2066, MMD: 44.2529
+                    
+INFO:root:
+                    E: 1, B: 310, Total: 9.7428, RMSE: 5.3174, MMD: 44.2538
+                    
+INFO:root:
+                    E: 1, B: 311, Total: 9.4409, RMSE: 5.0154, MMD: 44.2546
+                    
+INFO:root:
+                    E: 1, B: 312, Total: 9.7487, RMSE: 5.3232, MMD: 44.2555
+                    
+INFO:root:
+                    E: 1, B: 313, Total: 9.7805, RMSE: 5.3549, MMD: 44.2564
+                    
+INFO:root:
+                    E: 1, B: 314, Total: 9.5144, RMSE: 5.0887, MMD: 44.2572
+                    
+INFO:root:
+                    E: 1, B: 315, Total: 9.7603, RMSE: 5.3345, MMD: 44.2580
+                    
+INFO:root:
+                    E: 1, B: 316, Total: 9.6036, RMSE: 5.1777, MMD: 44.2589
+                    
+INFO:root:
+                    E: 1, B: 317, Total: 9.6875, RMSE: 5.2615, MMD: 44.2597
+                    
+INFO:root:
+                    E: 1, B: 318, Total: 9.8019, RMSE: 5.3758, MMD: 44.2605
+                    
+INFO:root:
+                    E: 1, B: 319, Total: 9.6723, RMSE: 5.2461, MMD: 44.2613
+                    
+INFO:root:
+                    E: 1, B: 320, Total: 9.4402, RMSE: 5.0139, MMD: 44.2621
+                    
+INFO:root:
+                    E: 1, B: 321, Total: 9.9824, RMSE: 5.5561, MMD: 44.2629
+                    
+INFO:root:
+                    E: 1, B: 322, Total: 9.5428, RMSE: 5.1164, MMD: 44.2637
+                    
+INFO:root:
+                    E: 1, B: 323, Total: 9.5856, RMSE: 5.1592, MMD: 44.2645
+                    
+INFO:root:
+                    E: 1, B: 324, Total: 9.9231, RMSE: 5.4966, MMD: 44.2653
+                    
+INFO:root:
+                    E: 1, B: 325, Total: 9.7462, RMSE: 5.3196, MMD: 44.2661
+                    
+INFO:root:
+                    E: 1, B: 326, Total: 9.4941, RMSE: 5.0674, MMD: 44.2668
+                    
+INFO:root:
+                    E: 1, B: 327, Total: 9.6747, RMSE: 5.2479, MMD: 44.2676
+                    
+INFO:root:
+                    E: 1, B: 328, Total: 9.8039, RMSE: 5.3771, MMD: 44.2684
+                    
+INFO:root:
+                    E: 1, B: 329, Total: 9.4971, RMSE: 5.0702, MMD: 44.2691
+                    
+INFO:root:
+                    E: 1, B: 330, Total: 9.6336, RMSE: 5.2066, MMD: 44.2698
+                    
+INFO:root:
+                    E: 1, B: 331, Total: 9.7444, RMSE: 5.3173, MMD: 44.2706
+                    
+INFO:root:
+                    E: 1, B: 332, Total: 9.4429, RMSE: 5.0158, MMD: 44.2713
+                    
+INFO:root:
+                    E: 1, B: 333, Total: 9.7504, RMSE: 5.3232, MMD: 44.2721
+                    
+INFO:root:
+                    E: 1, B: 334, Total: 9.7824, RMSE: 5.3551, MMD: 44.2728
+                    
+INFO:root:
+                    E: 1, B: 335, Total: 9.5158, RMSE: 5.0884, MMD: 44.2736
+                    
+INFO:root:
+                    E: 1, B: 336, Total: 9.7620, RMSE: 5.3346, MMD: 44.2743
+                    
+INFO:root:
+                    E: 1, B: 337, Total: 9.6053, RMSE: 5.1778, MMD: 44.2750
+                    
+INFO:root:
+                    E: 1, B: 338, Total: 9.6891, RMSE: 5.2615, MMD: 44.2757
+                    
+INFO:root:
+                    E: 1, B: 339, Total: 9.8034, RMSE: 5.3757, MMD: 44.2764
+                    
+INFO:root:
+                    E: 1, B: 340, Total: 9.6739, RMSE: 5.2462, MMD: 44.2771
+                    
+INFO:root:
+                    E: 1, B: 341, Total: 9.4414, RMSE: 5.0136, MMD: 44.2778
+                    
+INFO:root:
+                    E: 1, B: 342, Total: 9.9845, RMSE: 5.5567, MMD: 44.2785
+                    
+INFO:root:
+                    E: 1, B: 343, Total: 9.5443, RMSE: 5.1164, MMD: 44.2792
+                    
+INFO:root:
+                    E: 1, B: 344, Total: 9.5871, RMSE: 5.1592, MMD: 44.2798
+                    
+INFO:root:
+                    E: 1, B: 345, Total: 9.9244, RMSE: 5.4963, MMD: 44.2805
+                    
+INFO:root:
+                    E: 1, B: 346, Total: 9.7480, RMSE: 5.3199, MMD: 44.2812
+                    
+INFO:root:
+                    E: 1, B: 347, Total: 9.4960, RMSE: 5.0678, MMD: 44.2818
+                    
+INFO:root:
+                    E: 1, B: 348, Total: 9.6762, RMSE: 5.2480, MMD: 44.2824
+                    
+INFO:root:
+                    E: 1, B: 349, Total: 9.8057, RMSE: 5.3774, MMD: 44.2831
+                    
+INFO:root:
+                    E: 1, B: 350, Total: 9.4986, RMSE: 5.0702, MMD: 44.2837
+                    
+INFO:root:
+                    E: 1, B: 351, Total: 9.6351, RMSE: 5.2066, MMD: 44.2844
+                    
+INFO:root:
+                    E: 1, B: 352, Total: 9.7455, RMSE: 5.3170, MMD: 44.2850
+                    
+INFO:root:
+                    E: 1, B: 353, Total: 9.4448, RMSE: 5.0162, MMD: 44.2856
+                    
+INFO:root:
+                    E: 1, B: 354, Total: 9.7524, RMSE: 5.3238, MMD: 44.2862
+                    
+INFO:root:
+                    E: 1, B: 355, Total: 9.7847, RMSE: 5.3560, MMD: 44.2869
+                    
+INFO:root:
+                    E: 1, B: 356, Total: 9.5171, RMSE: 5.0884, MMD: 44.2875
+                    
+INFO:root:
+                    E: 1, B: 357, Total: 9.7633, RMSE: 5.3345, MMD: 44.2880
+                    
+INFO:root:
+                    E: 1, B: 358, Total: 9.6074, RMSE: 5.1785, MMD: 44.2887
+                    
+INFO:root:
+                    E: 1, B: 359, Total: 9.6905, RMSE: 5.2616, MMD: 44.2892
+                    
+INFO:root:
+                    E: 1, B: 360, Total: 9.8054, RMSE: 5.3764, MMD: 44.2898
+                    
+INFO:root:
+                    E: 1, B: 361, Total: 9.6753, RMSE: 5.2462, MMD: 44.2905
+                    
+INFO:root:
+                    E: 1, B: 362, Total: 9.4428, RMSE: 5.0137, MMD: 44.2910
+                    
+INFO:root:
+                    E: 1, B: 363, Total: 9.9852, RMSE: 5.5560, MMD: 44.2916
+                    
+INFO:root:
+                    E: 1, B: 364, Total: 9.5458, RMSE: 5.1166, MMD: 44.2922
+                    
+INFO:root:
+                    E: 1, B: 365, Total: 9.5884, RMSE: 5.1591, MMD: 44.2928
+                    
+INFO:root:
+                    E: 1, B: 366, Total: 9.9258, RMSE: 5.4965, MMD: 44.2934
+                    
+INFO:root:
+                    E: 1, B: 367, Total: 9.7491, RMSE: 5.3197, MMD: 44.2940
+                    
+INFO:root:
+                    E: 1, B: 368, Total: 9.4967, RMSE: 5.0673, MMD: 44.2945
+                    
+INFO:root:
+                    E: 1, B: 369, Total: 9.6777, RMSE: 5.2482, MMD: 44.2951
+                    
+INFO:root:
+                    E: 1, B: 370, Total: 9.8070, RMSE: 5.3774, MMD: 44.2957
+                    
+INFO:root:
+                    E: 1, B: 371, Total: 9.4998, RMSE: 5.0702, MMD: 44.2962
+                    
+INFO:root:
+                    E: 1, B: 372, Total: 9.6363, RMSE: 5.2067, MMD: 44.2967
+                    
+INFO:root:
+                    E: 1, B: 373, Total: 9.7468, RMSE: 5.3171, MMD: 44.2973
+                    
+INFO:root:
+                    E: 1, B: 374, Total: 9.4457, RMSE: 5.0159, MMD: 44.2978
+                    
+INFO:root:
+                    E: 1, B: 375, Total: 9.7532, RMSE: 5.3234, MMD: 44.2983
+                    
+INFO:root:
+                    E: 1, B: 376, Total: 9.7853, RMSE: 5.3555, MMD: 44.2989
+                    
+INFO:root:
+                    E: 1, B: 377, Total: 9.5184, RMSE: 5.0884, MMD: 44.2994
+                    
+INFO:root:
+                    E: 1, B: 378, Total: 9.7644, RMSE: 5.3344, MMD: 44.2999
+                    
+INFO:root:
+                    E: 1, B: 379, Total: 9.6080, RMSE: 5.1779, MMD: 44.3004
+                    
+INFO:root:
+                    E: 1, B: 380, Total: 9.6916, RMSE: 5.2615, MMD: 44.3009
+                    
+INFO:root:
+                    E: 1, B: 381, Total: 9.8060, RMSE: 5.3758, MMD: 44.3014
+                    
+INFO:root:
+                    E: 1, B: 382, Total: 9.6763, RMSE: 5.2462, MMD: 44.3019
+                    
+INFO:root:
+                    E: 1, B: 383, Total: 9.4437, RMSE: 5.0134, MMD: 44.3024
+                    
+INFO:root:
+                    E: 1, B: 384, Total: 9.9868, RMSE: 5.5565, MMD: 44.3029
+                    
+INFO:root:
+                    E: 1, B: 385, Total: 9.5468, RMSE: 5.1165, MMD: 44.3034
+                    
+INFO:root:
+                    E: 1, B: 386, Total: 9.5895, RMSE: 5.1591, MMD: 44.3039
+                    
+INFO:root:
+                    E: 1, B: 387, Total: 9.9267, RMSE: 5.4962, MMD: 44.3044
+                    
+INFO:root:
+                    E: 1, B: 388, Total: 9.7502, RMSE: 5.3197, MMD: 44.3049
+                    
+INFO:root:
+                    E: 1, B: 389, Total: 9.4977, RMSE: 5.0672, MMD: 44.3053
+                    
+INFO:root:
+                    E: 1, B: 390, Total: 9.6787, RMSE: 5.2482, MMD: 44.3058
+                    
+INFO:root:
+                    E: 1, B: 391, Total: 9.8081, RMSE: 5.3775, MMD: 44.3063
+                    
+INFO:root:
+                    E: 1, B: 392, Total: 9.5009, RMSE: 5.0702, MMD: 44.3067
+                    
+INFO:root:
+                    E: 1, B: 393, Total: 9.6374, RMSE: 5.2067, MMD: 44.3072
+                    
+INFO:root:
+                    E: 1, B: 394, Total: 9.7478, RMSE: 5.3170, MMD: 44.3077
+                    
+INFO:root:
+                    E: 1, B: 395, Total: 9.4464, RMSE: 5.0156, MMD: 44.3081
+                    
+INFO:root:
+                    E: 1, B: 396, Total: 9.7543, RMSE: 5.3234, MMD: 44.3086
+                    
+INFO:root:
+                    E: 1, B: 397, Total: 9.7862, RMSE: 5.3553, MMD: 44.3090
+                    
+INFO:root:
+                    E: 1, B: 398, Total: 9.5194, RMSE: 5.0885, MMD: 44.3095
+                    
+INFO:root:
+                    E: 1, B: 399, Total: 9.7654, RMSE: 5.3344, MMD: 44.3099
+                    
+INFO:root:
+                    E: 1, B: 400, Total: 9.6089, RMSE: 5.1779, MMD: 44.3103
+                    
+INFO:root:
+                    E: 1, B: 401, Total: 9.6926, RMSE: 5.2615, MMD: 44.3107
+                    
+INFO:root:
+                    E: 1, B: 402, Total: 9.8070, RMSE: 5.3759, MMD: 44.3111
+                    
+INFO:root:
+                    E: 1, B: 403, Total: 9.6773, RMSE: 5.2462, MMD: 44.3116
+                    
+INFO:root:
+                    E: 1, B: 404, Total: 9.4447, RMSE: 5.0135, MMD: 44.3120
+                    
+INFO:root:
+                    E: 1, B: 405, Total: 9.9876, RMSE: 5.5564, MMD: 44.3124
+                    
+INFO:root:
+                    E: 1, B: 406, Total: 9.5477, RMSE: 5.1164, MMD: 44.3128
+                    
+INFO:root:
+                    E: 1, B: 407, Total: 9.5904, RMSE: 5.1591, MMD: 44.3132
+                    
+INFO:root:
+                    E: 1, B: 408, Total: 9.9276, RMSE: 5.4963, MMD: 44.3136
+                    
+INFO:root:
+                    E: 1, B: 409, Total: 9.7511, RMSE: 5.3197, MMD: 44.3140
+                    
+INFO:root:
+                    E: 1, B: 410, Total: 9.4987, RMSE: 5.0673, MMD: 44.3144
+                    
+INFO:root:
+                    E: 1, B: 411, Total: 9.6796, RMSE: 5.2481, MMD: 44.3148
+                    
+INFO:root:
+                    E: 1, B: 412, Total: 9.8089, RMSE: 5.3774, MMD: 44.3152
+                    
+INFO:root:
+                    E: 1, B: 413, Total: 9.5018, RMSE: 5.0702, MMD: 44.3156
+                    
+INFO:root:
+                    E: 1, B: 414, Total: 9.6382, RMSE: 5.2066, MMD: 44.3160
+                    
+INFO:root:
+                    E: 1, B: 415, Total: 9.7487, RMSE: 5.3171, MMD: 44.3164
+                    
+INFO:root:
+                    E: 1, B: 416, Total: 9.4475, RMSE: 5.0158, MMD: 44.3167
+                    
+INFO:root:
+                    E: 1, B: 417, Total: 9.7550, RMSE: 5.3233, MMD: 44.3171
+                    
+INFO:root:
+                    E: 1, B: 418, Total: 9.7870, RMSE: 5.3552, MMD: 44.3175
+                    
+INFO:root:
+                    E: 1, B: 419, Total: 9.5202, RMSE: 5.0884, MMD: 44.3179
+                    
+INFO:root:
+                    E: 1, B: 420, Total: 9.7663, RMSE: 5.3345, MMD: 44.3182
+                    
+INFO:root:
+                    E: 1, B: 421, Total: 9.6097, RMSE: 5.1779, MMD: 44.3186
+                    
+INFO:root:
+                    E: 1, B: 422, Total: 9.6934, RMSE: 5.2616, MMD: 44.3189
+                    
+INFO:root:
+                    E: 1, B: 423, Total: 9.8077, RMSE: 5.3758, MMD: 44.3193
+                    
+INFO:root:
+                    E: 1, B: 424, Total: 9.6781, RMSE: 5.2462, MMD: 44.3197
+                    
+INFO:root:
+                    E: 1, B: 425, Total: 9.4455, RMSE: 5.0135, MMD: 44.3200
+                    
+INFO:root:
+                    E: 1, B: 426, Total: 9.9886, RMSE: 5.5566, MMD: 44.3204
+                    
+INFO:root:
+                    E: 1, B: 427, Total: 9.5484, RMSE: 5.1164, MMD: 44.3207
+                    
+INFO:root:
+                    E: 1, B: 428, Total: 9.5912, RMSE: 5.1591, MMD: 44.3210
+                    
+INFO:root:
+                    E: 1, B: 429, Total: 9.9284, RMSE: 5.4963, MMD: 44.3214
+                    
+INFO:root:
+                    E: 1, B: 430, Total: 9.7520, RMSE: 5.3199, MMD: 44.3218
+                    
+INFO:root:
+                    E: 1, B: 431, Total: 9.4998, RMSE: 5.0676, MMD: 44.3221
+                    
+INFO:root:
+                    E: 1, B: 432, Total: 9.6803, RMSE: 5.2481, MMD: 44.3224
+                    
+INFO:root:
+                    E: 1, B: 433, Total: 9.8097, RMSE: 5.3774, MMD: 44.3228
+                    
+INFO:root:
+                    E: 1, B: 434, Total: 9.5025, RMSE: 5.0702, MMD: 44.3231
+                    
+INFO:root:
+                    E: 1, B: 435, Total: 9.6390, RMSE: 5.2066, MMD: 44.3234
+                    
+INFO:root:
+                    E: 1, B: 436, Total: 9.7494, RMSE: 5.3170, MMD: 44.3237
+                    
+INFO:root:
+                    E: 1, B: 437, Total: 9.4486, RMSE: 5.0162, MMD: 44.3240
+                    
+INFO:root:
+                    E: 1, B: 438, Total: 9.7559, RMSE: 5.3235, MMD: 44.3243
+                    
+INFO:root:
+                    E: 1, B: 439, Total: 9.7882, RMSE: 5.3557, MMD: 44.3247
+                    
+INFO:root:
+                    E: 1, B: 440, Total: 9.5209, RMSE: 5.0884, MMD: 44.3250
+                    
+INFO:root:
+                    E: 1, B: 441, Total: 9.7671, RMSE: 5.3345, MMD: 44.3253
+                    
+INFO:root:
+                    E: 1, B: 442, Total: 9.6107, RMSE: 5.1781, MMD: 44.3256
+                    
+INFO:root:
+                    E: 1, B: 443, Total: 9.6942, RMSE: 5.2616, MMD: 44.3259
+                    
+INFO:root:
+                    E: 1, B: 444, Total: 9.8086, RMSE: 5.3760, MMD: 44.3262
+                    
+INFO:root:
+                    E: 1, B: 445, Total: 9.6788, RMSE: 5.2462, MMD: 44.3265
+                    
+INFO:root:
+                    E: 1, B: 446, Total: 9.4463, RMSE: 5.0136, MMD: 44.3268
+                    
+INFO:root:
+                    E: 1, B: 447, Total: 9.9893, RMSE: 5.5566, MMD: 44.3271
+                    
+INFO:root:
+                    E: 1, B: 448, Total: 9.5492, RMSE: 5.1165, MMD: 44.3273
+                    
+INFO:root:
+                    E: 1, B: 449, Total: 9.5919, RMSE: 5.1591, MMD: 44.3276
+                    
+INFO:root:
+                    E: 1, B: 450, Total: 9.9291, RMSE: 5.4963, MMD: 44.3279
+                    
+INFO:root:
+                    E: 1, B: 451, Total: 9.7525, RMSE: 5.3197, MMD: 44.3282
+                    
+INFO:root:
+                    E: 1, B: 452, Total: 9.4998, RMSE: 5.0669, MMD: 44.3285
+                    
+INFO:root:
+                    E: 1, B: 453, Total: 9.6814, RMSE: 5.2485, MMD: 44.3287
+                    
+INFO:root:
+                    E: 1, B: 454, Total: 9.8105, RMSE: 5.3776, MMD: 44.3290
+                    
+INFO:root:
+                    E: 1, B: 455, Total: 9.5032, RMSE: 5.0703, MMD: 44.3293
+                    
+INFO:root:
+                    E: 1, B: 456, Total: 9.6397, RMSE: 5.2068, MMD: 44.3295
+                    
+INFO:root:
+                    E: 1, B: 457, Total: 9.7501, RMSE: 5.3171, MMD: 44.3298
+                    
+INFO:root:
+                    E: 1, B: 458, Total: 9.4484, RMSE: 5.0154, MMD: 44.3301
+                    
+INFO:root:
+                    E: 1, B: 459, Total: 9.7565, RMSE: 5.3235, MMD: 44.3303
+                    
+INFO:root:
+                    E: 1, B: 460, Total: 9.7882, RMSE: 5.3551, MMD: 44.3306
+                    
+INFO:root:
+                    E: 1, B: 461, Total: 9.5219, RMSE: 5.0888, MMD: 44.3309
+                    
+INFO:root:
+                    E: 1, B: 462, Total: 9.7675, RMSE: 5.3344, MMD: 44.3311
+                    
+INFO:root:
+                    E: 1, B: 463, Total: 9.6110, RMSE: 5.1778, MMD: 44.3314
+                    
+INFO:root:
+                    E: 1, B: 464, Total: 9.6947, RMSE: 5.2615, MMD: 44.3316
+                    
+INFO:root:
+                    E: 1, B: 465, Total: 9.8091, RMSE: 5.3759, MMD: 44.3319
+                    
+INFO:root:
+                    E: 1, B: 466, Total: 9.6794, RMSE: 5.2461, MMD: 44.3321
+                    
+INFO:root:
+                    E: 1, B: 467, Total: 9.4469, RMSE: 5.0136, MMD: 44.3324
+                    
+INFO:root:
+                    E: 1, B: 468, Total: 9.9894, RMSE: 5.5561, MMD: 44.3326
+                    
+INFO:root:
+                    E: 1, B: 469, Total: 9.5498, RMSE: 5.1165, MMD: 44.3329
+                    
+INFO:root:
+                    E: 1, B: 470, Total: 9.5925, RMSE: 5.1592, MMD: 44.3331
+                    
+INFO:root:
+                    E: 1, B: 471, Total: 9.9298, RMSE: 5.4964, MMD: 44.3334
+                    
+INFO:root:
+                    E: 1, B: 472, Total: 9.7530, RMSE: 5.3197, MMD: 44.3336
+                    
+INFO:root:
+                    E: 1, B: 473, Total: 9.5006, RMSE: 5.0672, MMD: 44.3338
+                    
+INFO:root:
+                    E: 1, B: 474, Total: 9.6815, RMSE: 5.2481, MMD: 44.3341
+                    
+INFO:root:
+                    E: 1, B: 475, Total: 9.8107, RMSE: 5.3772, MMD: 44.3343
+                    
+INFO:root:
+                    E: 1, B: 476, Total: 9.5037, RMSE: 5.0702, MMD: 44.3345
+                    
+INFO:root:
+                    E: 1, B: 477, Total: 9.6401, RMSE: 5.2066, MMD: 44.3348
+                    
+INFO:root:
+                    E: 1, B: 478, Total: 9.7506, RMSE: 5.3171, MMD: 44.3350
+                    
+INFO:root:
+                    E: 1, B: 479, Total: 9.4494, RMSE: 5.0159, MMD: 44.3352
+                    
+INFO:root:
+                    E: 1, B: 480, Total: 9.7569, RMSE: 5.3233, MMD: 44.3354
+                    
+INFO:root:
+                    E: 1, B: 481, Total: 9.7889, RMSE: 5.3553, MMD: 44.3356
+                    
+INFO:root:
+                    E: 1, B: 482, Total: 9.5220, RMSE: 5.0884, MMD: 44.3359
+                    
+INFO:root:
+                    E: 1, B: 483, Total: 9.7683, RMSE: 5.3347, MMD: 44.3361
+                    
+INFO:root:
+                    E: 1, B: 484, Total: 9.6116, RMSE: 5.1780, MMD: 44.3363
+                    
+INFO:root:
+                    E: 1, B: 485, Total: 9.6953, RMSE: 5.2616, MMD: 44.3365
+                    
+INFO:root:
+                    E: 1, B: 486, Total: 9.8095, RMSE: 5.3758, MMD: 44.3367
+                    
+INFO:root:
+                    E: 1, B: 487, Total: 9.6799, RMSE: 5.2462, MMD: 44.3369
+                    
+INFO:root:
+                    E: 1, B: 488, Total: 9.4472, RMSE: 5.0135, MMD: 44.3371
+                    
+INFO:root:
+                    E: 1, B: 489, Total: 9.9905, RMSE: 5.5567, MMD: 44.3373
+                    
+INFO:root:
+                    E: 1, B: 490, Total: 9.5501, RMSE: 5.1164, MMD: 44.3375
+                    
+INFO:root:
+                    E: 1, B: 491, Total: 9.5929, RMSE: 5.1591, MMD: 44.3377
+                    
+INFO:root:
+                    E: 1, B: 492, Total: 9.9300, RMSE: 5.4962, MMD: 44.3379
+                    
+INFO:root:
+                    E: 1, B: 493, Total: 9.7536, RMSE: 5.3198, MMD: 44.3382
+                    
+INFO:root:
+                    E: 1, B: 494, Total: 9.5013, RMSE: 5.0675, MMD: 44.3384
+                    
+INFO:root:
+                    E: 1, B: 495, Total: 9.6819, RMSE: 5.2481, MMD: 44.3386
+                    
+INFO:root:
+                    E: 1, B: 496, Total: 9.8113, RMSE: 5.3774, MMD: 44.3388
+                    
+INFO:root:
+                    E: 1, B: 497, Total: 9.5041, RMSE: 5.0702, MMD: 44.3390
+                    
+INFO:root:
+                    E: 1, B: 498, Total: 9.6407, RMSE: 5.2068, MMD: 44.3391
+                    
+INFO:root:
+                    E: 1, B: 499, Total: 9.7510, RMSE: 5.3171, MMD: 44.3393
+                    
+INFO:root:
+                    E: 1, B: 500, Total: 9.4497, RMSE: 5.0157, MMD: 44.3395
+                    
+INFO:root:
+                    E: 1, B: 501, Total: 9.7574, RMSE: 5.3234, MMD: 44.3397
+                    
+INFO:root:
+                    E: 1, B: 502, Total: 9.7894, RMSE: 5.3554, MMD: 44.3399
+                    
+INFO:root:
+                    E: 1, B: 503, Total: 9.5224, RMSE: 5.0884, MMD: 44.3401
+                    
+INFO:root:
+                    E: 1, B: 504, Total: 9.7686, RMSE: 5.3345, MMD: 44.3402
+                    
+INFO:root:
+                    E: 1, B: 505, Total: 9.6121, RMSE: 5.1780, MMD: 44.3404
+                    
+INFO:root:
+                    E: 1, B: 506, Total: 9.6956, RMSE: 5.2615, MMD: 44.3406
+                    
+INFO:root:
+                    E: 1, B: 507, Total: 9.8101, RMSE: 5.3761, MMD: 44.3408
+                    
+INFO:root:
+                    E: 1, B: 508, Total: 9.6803, RMSE: 5.2462, MMD: 44.3409
+                    
+INFO:root:
+                    E: 1, B: 509, Total: 9.4478, RMSE: 5.0137, MMD: 44.3411
+                    
+INFO:root:
+                    E: 1, B: 510, Total: 9.9907, RMSE: 5.5566, MMD: 44.3413
+                    
+INFO:root:
+                    E: 1, B: 511, Total: 9.5506, RMSE: 5.1164, MMD: 44.3414
+                    
+INFO:root:
+                    E: 1, B: 512, Total: 9.5933, RMSE: 5.1591, MMD: 44.3416
+                    
+INFO:root:
+                    E: 1, B: 513, Total: 9.9304, RMSE: 5.4962, MMD: 44.3418
+                    
+INFO:root:
+                    E: 1, B: 514, Total: 9.7542, RMSE: 5.3200, MMD: 44.3419
+                    
+INFO:root:
+                    E: 1, B: 515, Total: 9.5015, RMSE: 5.0673, MMD: 44.3421
+                    
+INFO:root:
+                    E: 1, B: 516, Total: 9.6826, RMSE: 5.2484, MMD: 44.3423
+                    
+INFO:root:
+                    E: 1, B: 517, Total: 9.8120, RMSE: 5.3778, MMD: 44.3424
+                    
+INFO:root:
+                    E: 1, B: 518, Total: 9.5045, RMSE: 5.0703, MMD: 44.3426
+                    
+INFO:root:
+                    E: 1, B: 519, Total: 9.6410, RMSE: 5.2068, MMD: 44.3427
+                    
+INFO:root:
+                    E: 1, B: 520, Total: 9.7513, RMSE: 5.3170, MMD: 44.3429
+                    
+INFO:root:
+                    E: 1, B: 521, Total: 9.4504, RMSE: 5.0161, MMD: 44.3431
+                    
+INFO:root:
+                    E: 1, B: 522, Total: 9.7578, RMSE: 5.3235, MMD: 44.3432
+                    
+INFO:root:
+                    E: 1, B: 523, Total: 9.7900, RMSE: 5.3557, MMD: 44.3434
+                    
+INFO:root:
+                    E: 1, B: 524, Total: 9.5227, RMSE: 5.0884, MMD: 44.3435
+                    
+INFO:root:
+                    E: 1, B: 525, Total: 9.7688, RMSE: 5.3344, MMD: 44.3437
+                    
+INFO:root:
+                    E: 1, B: 526, Total: 9.6125, RMSE: 5.1781, MMD: 44.3438
+                    
+INFO:root:
+                    E: 1, B: 527, Total: 9.6960, RMSE: 5.2616, MMD: 44.3440
+                    
+INFO:root:
+                    E: 1, B: 528, Total: 9.8105, RMSE: 5.3760, MMD: 44.3441
+                    
+INFO:root:
+                    E: 1, B: 529, Total: 9.6806, RMSE: 5.2462, MMD: 44.3443
+                    
+INFO:root:
+                    E: 1, B: 530, Total: 9.4480, RMSE: 5.0136, MMD: 44.3444
+                    
+INFO:root:
+                    E: 1, B: 531, Total: 9.9909, RMSE: 5.5565, MMD: 44.3445
+                    
+INFO:root:
+                    E: 1, B: 532, Total: 9.5510, RMSE: 5.1166, MMD: 44.3447
+                    
+INFO:root:
+                    E: 1, B: 533, Total: 9.5936, RMSE: 5.1591, MMD: 44.3448
+                    
+INFO:root:
+                    E: 1, B: 534, Total: 9.9308, RMSE: 5.4963, MMD: 44.3450
+                    
+INFO:root:
+                    E: 1, B: 535, Total: 9.7542, RMSE: 5.3196, MMD: 44.3451
+                    
+INFO:root:
+                    E: 1, B: 536, Total: 9.5015, RMSE: 5.0670, MMD: 44.3452
+                    
+INFO:root:
+                    E: 1, B: 537, Total: 9.6827, RMSE: 5.2482, MMD: 44.3454
+                    
+INFO:root:
+                    E: 1, B: 538, Total: 9.8120, RMSE: 5.3774, MMD: 44.3455
+                    
+INFO:root:
+                    E: 1, B: 539, Total: 9.5048, RMSE: 5.0702, MMD: 44.3456
+                    
+INFO:root:
+                    Test E:0, B: 0, Total: 9.9016, RMSE: 5.4670, MMD: 44.3458
+                    
+INFO:root:
+                    Test E:0, B: 1, Total: 9.6613, RMSE: 5.2267, MMD: 44.3459
+                    
+INFO:root:
+                    Test E:0, B: 2, Total: 9.3640, RMSE: 4.9294, MMD: 44.3460
+                    
+INFO:root:
+                    Test E:0, B: 3, Total: 9.8368, RMSE: 5.4022, MMD: 44.3460
+                    
+INFO:root:
+                    Test E:0, B: 4, Total: 9.7433, RMSE: 5.3087, MMD: 44.3461
+                    
+INFO:root:
+                    Test E:0, B: 5, Total: 10.0556, RMSE: 5.6209, MMD: 44.3462
+                    
+INFO:root:
+                    Test E:0, B: 6, Total: 9.9016, RMSE: 5.4670, MMD: 44.3463
+                    
+INFO:root:
+                    Test E:0, B: 7, Total: 9.6614, RMSE: 5.2267, MMD: 44.3464
+                    
+INFO:root:
+                    Test E:0, B: 8, Total: 9.3641, RMSE: 4.9294, MMD: 44.3465
+                    
+INFO:root:
+                    Test E:0, B: 9, Total: 9.8369, RMSE: 5.4022, MMD: 44.3466
+                    
+INFO:root:
+                    Test E:0, B: 10, Total: 9.7434, RMSE: 5.3087, MMD: 44.3467
+                    
+INFO:root:
+                    Test E:0, B: 11, Total: 10.0556, RMSE: 5.6209, MMD: 44.3468
+                    

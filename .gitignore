@@ -1,0 +1,7 @@
+code/data/raw
+code/data/graphs
+code/data/test
+Papers/
+Documents/
+t4c/
+**/dd_*.pth

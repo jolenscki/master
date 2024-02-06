@@ -1,0 +1,49 @@
+\section{Motivation}
+
+According to \cite{yin2015literature}, a \textit{smart city} can be defined as a well-coordinated system that integrates advanced technological infrastructure, relying on sophisticated data processing. The primary objectives of such integration are to enhance city governance efficiency, improve citizen satisfaction, foster business prosperity, and promote environmental sustainability. Within a smart city, the management of various individual systems that constitute the urban environment is not solely reliant on the data collected within the city; it also relies on different adaptable models that can learn and evolve to suit the specific needs and characteristics of the city. In this context, the development of traffic prediction models emerges as a pivotal component for establishing the foundational framework of smart city management.
+
+Recent advances in deep learning, fed by the advent of Big Data, have led to significant advancements in prediction tasks related to traffic, such as crowd flow \cite{zhang2018predicting, jin2018spatio}, traffic flow \cite{polson2017deep, wu2018hybrid}, public transit flow \cite{liu2019deeppf, chai2018bike}, travel demands \cite{geng2019spatiotemporal}, and traffic speeds \cite{yu2017spatio}. While formidable in their predictive power, these models come with a substantial data appetite. This data requirement poses a challenge for initiating new intelligent networks because meaningful inferences remain elusive despite the considerable investment needed to establish the sensor network without access to substantial data history. This difficulty is known in the field as the ``cold-start'' problem.
+
+To address the aforementioned challenge, novel techniques rooted in transfer learning  \cite{pan2009survey} have been introduced. These approaches enable training predictive traffic models for cities constrained by limited data by taking advantage of patterns observed in cities with abundant data resources. The fundamental concept behind these models involves the application of Multi-task Learning, a type of Inductive Transfer Learning, which entails initializing the network in the source city and implementing fine-tuning to adapt the network to the unique characteristics of the target city.
+
+Additionally, the data representing the dynamic progression of urban traffic is inherently complex, encompassing two spatial dimensions and one temporal dimension. This multifaceted data is often expressed as a graph structure, where distinct segments or areas of the city are depicted as nodes, interconnected by unweighted edges constituting the physical connections between neighbor nodes. Effectively processing and interpreting this data necessitates specialized approaches. \gls{GCN} are generally employed for this purpose, adept at handling the intricacies of such graph-based representations.
+
+Currently, state-of-the-art models don't focus much on leveraging diverse source data when generating domain-agnostic features in transfer learning frameworks. Some works consider the possibility of using multiple source cities in the domain adaptation process \cite{Yao2019, Lu2022, Tang2022}. Still, as of now, almost no paper delves into the impact diverse source domains can have on accuracy.
+
+\section{Research Questions}
+
+The main motivation of this thesis is to build a model capable of predicting the next state of a given traffic system. To reach this goal, the following objectives were drawn:
+
+\begin{itemize}
+	\item Analyze current state-of-the-art models and identify cells and architectures that could be used when building a novel model;
+	\item Based on the results of the first objective, propose a novel model to be built, which should follow these requirements:
+		\begin{itemize}
+			\item capable of learning from multiple cities at the same time;
+			\item capable of intra-city learning and
+			\item capable of considering external features (such as weather data, \gls{POI} locations, relative date features).
+			% \item capable of taking external data (such as weather data, \gls{POI} locations, holidays' calendar) as a supplement; and
+			% \item with a pre-processing step that includes a data augmentation cell.
+		\end{itemize}
+	\item Analyze how impactful each feature derived from a requirement is to the model.
+\end{itemize}
+
+Concurrently, the following research questions were raised:
+
+\begin{enumerate}[label=\textbf{Q.\arabic*}]
+\item \label{q1} Is it possible to encompass more than two cities as sources in a transfer learning process?
+\item \label{q2} What's the impact of the number of sources on the model's accuracy?
+\item \label{q3} Is there a limit on the number of sources?
+%\item \label{q4} Is data augmentation possible in the traffic prediction field?
+\end{enumerate}
+
+\section{Contribution}
+
+
+\todo[inline]{contribution, ~2 paragraphs}
+
+
+\section{Outline}
+
+This work is organized as follows: Chapter \ref{ch:lit} introduces the literature review that was performed to further understand the problem and provides a comprehensive explanation of commonplace concepts of the field. Chapter \ref{ch:method} proposes a methodological framework for the entire work, including data acquisition, pre-processing, model building, and testing setup. Chapter \ref{ch:results} analyzes the results of the proposed tests and comparisons to proposed baselines. Chapter \ref{ch:discussion} uses the results to answer and discuss the research questions raised in Chapter \ref{ch:intro}. Chapter \ref{ch:conclusion} concludes the thesis and discusses the main directions for future research in the field.
+
+

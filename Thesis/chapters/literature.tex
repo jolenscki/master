@@ -1,0 +1,51 @@
+This chapter presents a literature review that we conducted to further the traffic forecasting field and its state-of-the-art.
+
+\section{Traffic Forecasting} \label{sec:trafficforecasting}
+
+Traffic Forecasting is a long-lasting field of study in Traffic Engineering, conceived in the 1950s \cite{Beckmann1956, Bevis1959}. Initially centered on traffic simulation, the area observed a significant upward trend in recent years. By its very nature, a traffic network constitutes a vast and complex system where events occurring at various junctures within the road grid can exert profound influence over the entire traffic flow. These inherent complexities render it an ideal subject for examination by cutting-edge machine-learning algorithms, such as \gls{LSTM}, \gls{GRU}, and \gls{CNN}.
+
+Traffic network problems inherently comprise two domains: the temporal and spatial domains. In the early stages of deep learning model development for the field of traffic, a natural division emerged, allocating separate components to address each of these domains. For example, \gls{CNN} has conventionally been harnessed primarily for spatial feature extraction, which involves identifying elements' physical locations or arrangements within a given dataset. Conversely, \gls{RNN} has specialized in temporal feature extraction, focusing on discerning patterns that evolve or change over time.
+
+The pioneering work of \cite{Ma2017} marked one of the earliest instances of employing \gls{CNN}s for traffic prediction tasks. Subsequently, this methodology proliferated across various model frameworks and underwent integration with other architectural paradigms. An illustrative example of this evolutionary trajectory emerges from the study conducted by \cite{Lin2021}, which employed a multiple \gls{GCN} framework. In this network type, the input to the convolutional layers consists of the city's graph representation.
+
+Similarly, \cite{Zhao2017} was among the early proponents of employing \gls{LSTM} cells for short-term traffic prediction. This approach gained substantial traction, integrating cells into various models, as exemplified by the \gls{ConvLSTM} module introduced by \cite{yao2018deep}. In this architecture, spatial features were extracted at each time frame and subsequently fed into an \gls{LSTM} chain. This innovative approach allowed for the extraction of spatial and temporal features concurrently.
+
+As a complex \gls{ST} problem, traffic forecasting offers a range of strategies, spanning from problem formulation to data structuring, encompassing data type selection. Regarding data representation, many authors \cite{Wang2019b, Yao2019, Wang20224695} choose to apply a grid in the city and treat each \mbox{1-by-1} region autonomously, computing variables (inflow and outflow, for instance) inside these boundaries. In this approach, the instantaneous snapshot of the city could be compared to an image in the context of image classification algorithms, with each pixel being equivalent to a region. 
+
+An alternative to this structure is transforming the raw data, typically provided as a matrix or tensor, into a graph-based representation, with each geographical region converted into a distinct node and an adjacency matrix defining the connections between neighboring regions \cite{Ouyang20231, Jin2022731, Lin2021, Zhang2022, Geng2019, Wang2023, Lu2022, Tang2022, Wei2016}. This method can better capture the network's complexity and regions' nuanced connectivity. In contrast to the grid-based approach, where regions may share a border without necessarily sharing a connecting road, the graph representation effectively accounts for such subtleties.
+
+A third strategy, applied in the works of  \cite{Elmi20201088, Li2022},  involves defining individual road segments as graph nodes. This approach offers significantly greater detail and precision in modeling traffic data as the data sources are condensed in a relatively small area. As a drawback, it also requires the installation of many more sensors to produce the data.
+
+
+
+\section{Transfer Learning} \label{sec:transferlearning}
+
+Transfer learning techniques \cite{pan2009survey} were introduced as valuable tools for addressing problems where existing knowledge or expertise from one domain could be employed to enhance learning and performance in another domain. These techniques prove incredibly beneficial when the latter domain suffers from a shortage of data. These techniques are widely used in \gls{NLP} problems such as sentiment and document classification. Furthermore, the computer vision field also benefited greatly from applying these approaches, as they are extensively used for image classification.
+
+As many cities started to prepare themselves to transition into ``smart cities,'' they stumbled upon the ``cold start'' problem. This problem refers to the lack of data that a city faces after installing the sensor network and before acquiring enough data to justify deep learning models, and it is not unique to smart cities but resonates with the broader field of machine learning \cite{Ali2020}. In such a situation, managers must wait at least three months to make reasonable predictions with deep learning models despite all investments made in traffic prediction. In these cases, based on the assumption that despite being different, some cities can share a common behavior framework and have similar data distributions. Transfer learning favors acquiring knowledge from cities with abundant data and using this knowledge to understand and predict cities with scarce data.
+
+Furthermore, Transfer Learning techniques are also suitable for intra-city transfer, i.e., transferring the learned patterns from a domain (for instance, bike sharing flow) to another in the same city (for example, pedestrian flow). This can observed in the work of \cite{Wang20224695}, in which the author used a taxi trip dataset to learn about bike sharing in the same city.
+
+Generally, a transfer learning algorithm consists of three parts: feature extraction, in which \gls{ST} features are obtained through various ways; domain adaptation, in which the knowledge is transferred; and a predictor, responsible for making a prediction on the next step based on the extracted features obtained from the aforementioned parts.
+
+The feature extraction step is also present in deep learning approaches to the traffic forecasting problem and it can be achieved by many different architectures, as discussed in Section \ref{sec:trafficforecasting}. On the other hand, the domain adaptation step is mainly present in the transfer learning networks and aims to extract transferable latent features between the domains. With it, one seeks to learn domain-invariant knowledge about the problem.
+
+\subsection{Domain Adaptation}
+
+On the efforts of domain adaptation, \cite{Wang20224695} proposes using convolutional layers parallelly for both source and target features. These convolutional layers are interconnected by calculating the \gls{MMD} between layers to form a transfer loss, which is then added to the overall model loss. \gls{MMD} is a statistical metric that quantifies the dissimilarity between two probability distributions  \cite{10.5555/2188385.2188410}. By using this metric as a loss function, the authors aimed to make the feature representation of different domains more similar. In like manner, \cite{Jin2022731} also proposes the use of \gls{MMD} to minimize the distance between features of different features and, in addition, the use of binary cross-entropy on the classification of the edge types, as the authors use multi-view graphs.
+
+Despite working in a different field (network traffic prediction), \cite{Wang202222} uses a similar architecture to \cite{Wang20224695}, with the substitution of the \gls{MMD} cells for \gls{CTD} ones. With a similar loss calculation structure, the \gls{CTD} cells aim to measure the domains' discrepancy. \cite{Ouyang20231} explores a different approach. In their work, the authors propose using adversarial training for transfer learning. This implies the design of a discriminator and a predictor in the network to generate a transfer loss.
+
+A different, more typical approach is used in \cite{Tang2022}, as the authors employ the parameter-sharing technique: pre-training on the source domain and fine-tuning on the target domain. In this technique, the parameters of the fine-tuning stage are initialized with the trained parameters from the pre-training phase. This adaptation is only possible when we assume that the difference between distinct domains is insignificant and that both domains may share common features and patterns.
+
+
+In the same paper, \cite{Tang2022} also implements another knowledge transfer technique, the \gls{GRL}, proposed initially by \cite{ganin2015unsupervised}. This architecture features an identity forward pass and reverses the gradient signal during the backward pass. Considering that different cities possess unique spatial structures and compositions, the \gls{GRL} is designed to mitigate these discrepancies by fostering an adversarial training environment. This is achieved by reversing the gradient, which confuses the model during training and is coupled with a domain classifier. The domain classifier's task is to differentiate source and target domains. At the same time, the model, through the influence of the GRL, learns to generate domain-invariant features, thus enhancing its ability to generalize across different city datasets. This approach is convenient in scenarios where the goal is to adapt a model trained on one city's data (source domain) to perform accurately on data from another city (target domain) despite the inherent differences in their spatial characteristics.
+
+
+
+
+
+
+
+
+% no TL -> 2, 13, 18, 19, 20
