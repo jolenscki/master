@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2024-01-30T10:03:40.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-Yze05relvwRxPIEIJcB" version="22.1.17" type="device">
+  <diagram name="Página-1" id="iBghx-ZtsNXmPx20Jy84">
+    <mxGraphModel dx="294" dy="164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GdCzeM-i6sgTiOV5Km3q-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;size=29.33000000000004;strokeWidth=0.5;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="156" height="19.16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
